@@ -1,0 +1,82 @@
+{
+  "result": {
+    "count": 116,
+    "repositories": 30
+  },
+  "settings": {
+    "branch": "rc-21.6100",
+    "types": [
+      "pagex"
+    ],
+    "text": [
+      "highlightContentArea\": true,"
+    ],
+    "options": {
+      "caseInsensitive": false,
+      "regExp": false,
+      "wholeWordOnly": false
+    }
+  },
+  "https://git.sbis.ru/buh/money": {
+    "count": 12,
+    "ofd.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/ofd/ofd.pagex#L9",
+        "text": "\"highlightContentArea\": true,"
+      }
+    },
+    "bank.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/bank/bank.pagex#L9",
+        "text": "\"highlightContentArea\": true,"
+      },
+      "line_59": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/bank/bank.pagex#L59",
+        "text": "\"highlightContentArea\": true,"
+      },
+      "line_99": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/bank/bank.pagex#L99",
+        "text": "\"highlightContentArea\": true,"
+      },
+      "line_148": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/bank/bank.pagex#L148",
+        "text": "\"highlightContentArea\": true,"
+      }
+    },
+    "cash.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/cash/cash.pagex#L9",
+        "text": "\"highlightContentArea\": true,"
+      },
+      "line_57": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/cash/cash.pagex#L57",
+        "text": "\"highlightContentArea\": true,"
+      },
+      "line_94": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/cash/cash.pagex#L94",
+        "text": "\"highlightContentArea\": true,"
+      },
+      "line_133": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/cash/cash.pagex#L133",
+        "text": "\"highlightContentArea\": true,"
+      }
+    }
+  },
+  "https://git.sbis.ru/buh/salary": {
+    "count": 3,
+    "Salary.pagex": {
+      "line_362": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-21.6100/service/Зарплата и кадры/Salary.pagex#L362",
+        "text": "\"highlightContentArea\": true,"
+      },
+      "line_505": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-21.6100/service/Зарплата и кадры/Salary.pagex#L505",
+        "text": "\"highlightContentArea\": true,"
+      },
+      "line_1017": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-21.6100/service/Зарплата и кадры/Salary.pagex#L1017",
+        "text": "\"highlightContentArea\": true,"
+      }
+    }
+  }
+}
