@@ -1,15 +1,15 @@
 {
   "result": {
-    "count": 116,
-    "repositories": 30
+    "count": 846,
+    "repositories": 101
   },
   "settings": {
-    "branch": "rc-21.6100",
+    "branch": "rc-22.1100",
     "types": [
       "pagex"
     ],
     "text": [
-      "highlightContentArea\": true,"
+      "<contentConfig>"
     ],
     "options": {
       "caseInsensitive": false,
@@ -17,65 +17,4124 @@
       "wholeWordOnly": false
     }
   },
+  "https://git.sbis.ru/aps/applied-code": {
+    "count": 7,
+    "Applied code service.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/aps/applied-code/blob/rc-22.1100/service/Code/Applied code service.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_28": {
+        "path": "https://git.sbis.ru/aps/applied-code/blob/rc-22.1100/service/Code/Applied code service.pagex#L28",
+        "text": "<contentConfig>"
+      },
+      "line_44": {
+        "path": "https://git.sbis.ru/aps/applied-code/blob/rc-22.1100/service/Code/Applied code service.pagex#L44",
+        "text": "<contentConfig>"
+      },
+      "line_54": {
+        "path": "https://git.sbis.ru/aps/applied-code/blob/rc-22.1100/service/Code/Applied code service.pagex#L54",
+        "text": "<contentConfig>"
+      },
+      "line_64": {
+        "path": "https://git.sbis.ru/aps/applied-code/blob/rc-22.1100/service/Code/Applied code service.pagex#L64",
+        "text": "<contentConfig>"
+      },
+      "line_74": {
+        "path": "https://git.sbis.ru/aps/applied-code/blob/rc-22.1100/service/Code/Applied code service.pagex#L74",
+        "text": "<contentConfig>"
+      },
+      "line_97": {
+        "path": "https://git.sbis.ru/aps/applied-code/blob/rc-22.1100/service/Code/Applied code service.pagex#L97",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/bigdata/interfaces": {
+    "count": 2,
+    "ServiceAccessibility.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/bigdata/interfaces/blob/rc-22.1100/service/SLA/ServiceAccessibility.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    },
+    "ResourceUsage.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/bigdata/interfaces/blob/rc-22.1100/service/SLA/ResourceUsage.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/billing/accounts": {
+    "count": 3,
+    "AccoutingService.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/billing/accounts/blob/rc-22.1100/service/AccountingService/AccoutingService.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_42": {
+        "path": "https://git.sbis.ru/billing/accounts/blob/rc-22.1100/service/AccountingService/AccoutingService.pagex#L42",
+        "text": "<contentConfig>"
+      }
+    },
+    "ServiceContract.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/billing/accounts/blob/rc-22.1100/service/ServiceContract/ServiceContract.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/billing/license-platform": {
+    "count": 2,
+    "Pages.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/billing/license-platform/blob/rc-22.1100/service/LicenseControl/Pages.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_46": {
+        "path": "https://git.sbis.ru/billing/license-platform/blob/rc-22.1100/service/LicenseControl/Pages.pagex#L46",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/booking/composite-sales": {
+    "count": 1,
+    "CompositeSale.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/booking/composite-sales/blob/rc-22.1100/www/service/Модули/CompositeSale/CompositeSale.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/buh/accounting-new": {
+    "count": 27,
+    "Entry.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Entry.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_25": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Entry.pagex#L25",
+        "text": "<contentConfig>"
+      },
+      "line_56": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Entry.pagex#L56",
+        "text": "<contentConfig>"
+      },
+      "line_81": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Entry.pagex#L81",
+        "text": "<contentConfig>"
+      },
+      "line_137": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Entry.pagex#L137",
+        "text": "<contentConfig>"
+      },
+      "line_163": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Entry.pagex#L163",
+        "text": "<contentConfig>"
+      },
+      "line_185": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Entry.pagex#L185",
+        "text": "<contentConfig>"
+      },
+      "line_216": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Entry.pagex#L216",
+        "text": "<contentConfig>"
+      },
+      "line_249": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Entry.pagex#L249",
+        "text": "<contentConfig>"
+      },
+      "line_325": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Entry.pagex#L325",
+        "text": "<contentConfig>"
+      },
+      "line_401": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Entry.pagex#L401",
+        "text": "<contentConfig>"
+      },
+      "line_477": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Entry.pagex#L477",
+        "text": "<contentConfig>"
+      }
+    },
+    "Remainders.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Remainders.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_59": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Remainders.pagex#L59",
+        "text": "<contentConfig>"
+      },
+      "line_119": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Remainders.pagex#L119",
+        "text": "<contentConfig>"
+      },
+      "line_175": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Remainders.pagex#L175",
+        "text": "<contentConfig>"
+      },
+      "line_231": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Remainders.pagex#L231",
+        "text": "<contentConfig>"
+      },
+      "line_287": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Entry/Remainders.pagex#L287",
+        "text": "<contentConfig>"
+      }
+    },
+    "Registers.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Registers/Registers.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_26": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Registers/Registers.pagex#L26",
+        "text": "<contentConfig>"
+      },
+      "line_55": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Registers/Registers.pagex#L55",
+        "text": "<contentConfig>"
+      },
+      "line_82": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Registers/Registers.pagex#L82",
+        "text": "<contentConfig>"
+      },
+      "line_109": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Registers/Registers.pagex#L109",
+        "text": "<contentConfig>"
+      },
+      "line_136": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Registers/Registers.pagex#L136",
+        "text": "<contentConfig>"
+      },
+      "line_159": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Registers/Registers.pagex#L159",
+        "text": "<contentConfig>"
+      },
+      "line_184": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Registers/Registers.pagex#L184",
+        "text": "<contentConfig>"
+      },
+      "line_211": {
+        "path": "https://git.sbis.ru/buh/accounting-new/blob/rc-22.1100/service/Registers/Registers.pagex#L211",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/buh/capital": {
+    "count": 6,
+    "Основные средства.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/buh/capital/blob/rc-22.1100/service/Основные средства/Основные средства.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_47": {
+        "path": "https://git.sbis.ru/buh/capital/blob/rc-22.1100/service/Основные средства/Основные средства.pagex#L47",
+        "text": "<contentConfig>"
+      },
+      "line_81": {
+        "path": "https://git.sbis.ru/buh/capital/blob/rc-22.1100/service/Основные средства/Основные средства.pagex#L81",
+        "text": "<contentConfig>"
+      },
+      "line_118": {
+        "path": "https://git.sbis.ru/buh/capital/blob/rc-22.1100/service/Основные средства/Основные средства.pagex#L118",
+        "text": "<contentConfig>"
+      },
+      "line_157": {
+        "path": "https://git.sbis.ru/buh/capital/blob/rc-22.1100/service/Основные средства/Основные средства.pagex#L157",
+        "text": "<contentConfig>"
+      },
+      "line_203": {
+        "path": "https://git.sbis.ru/buh/capital/blob/rc-22.1100/service/Основные средства/Основные средства.pagex#L203",
+        "text": "<contentConfig>"
+      }
+    }
+  },
   "https://git.sbis.ru/buh/money": {
-    "count": 12,
+    "count": 36,
+    "InImprest.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/ExpenseReports/InImprest.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    },
+    "ExpenseReportsWasaby.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/ExpenseReports/ExpenseReportsWasaby.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_34": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/ExpenseReports/ExpenseReportsWasaby.pagex#L34",
+        "text": "<contentConfig>"
+      },
+      "line_60": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/ExpenseReports/ExpenseReportsWasaby.pagex#L60",
+        "text": "<contentConfig>"
+      },
+      "line_88": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/ExpenseReports/ExpenseReportsWasaby.pagex#L88",
+        "text": "<contentConfig>"
+      }
+    },
+    "LoansAndCredits.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/LoansAndCredits/LoansAndCredits.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_93": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/LoansAndCredits/LoansAndCredits.pagex#L93",
+        "text": "<contentConfig>"
+      },
+      "line_180": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/LoansAndCredits/LoansAndCredits.pagex#L180",
+        "text": "<contentConfig>"
+      },
+      "line_233": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/LoansAndCredits/LoansAndCredits.pagex#L233",
+        "text": "<contentConfig>"
+      }
+    },
+    "ofd-service.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/ofd/ofd-service.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
     "ofd.pagex": {
-      "line_9": {
-        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/ofd/ofd.pagex#L9",
-        "text": "\"highlightContentArea\": true,"
+      "line_6": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/ofd/ofd.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    },
+    "applications.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/applications/applications.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_97": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/applications/applications.pagex#L97",
+        "text": "<contentConfig>"
       }
     },
     "bank.pagex": {
-      "line_9": {
-        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/bank/bank.pagex#L9",
-        "text": "\"highlightContentArea\": true,"
+      "line_6": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/bank/bank.pagex#L6",
+        "text": "<contentConfig>"
       },
-      "line_59": {
-        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/bank/bank.pagex#L59",
-        "text": "\"highlightContentArea\": true,"
+      "line_51": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/bank/bank.pagex#L51",
+        "text": "<contentConfig>"
       },
-      "line_99": {
-        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/bank/bank.pagex#L99",
-        "text": "\"highlightContentArea\": true,"
+      "line_92": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/bank/bank.pagex#L92",
+        "text": "<contentConfig>"
       },
-      "line_148": {
-        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/bank/bank.pagex#L148",
-        "text": "\"highlightContentArea\": true,"
+      "line_142": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/bank/bank.pagex#L142",
+        "text": "<contentConfig>"
       }
     },
     "cash.pagex": {
-      "line_9": {
-        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/cash/cash.pagex#L9",
-        "text": "\"highlightContentArea\": true,"
+      "line_6": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/cash/cash.pagex#L6",
+        "text": "<contentConfig>"
       },
-      "line_57": {
-        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/cash/cash.pagex#L57",
-        "text": "\"highlightContentArea\": true,"
+      "line_50": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/cash/cash.pagex#L50",
+        "text": "<contentConfig>"
+      },
+      "line_87": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/cash/cash.pagex#L87",
+        "text": "<contentConfig>"
+      },
+      "line_131": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/cash/cash.pagex#L131",
+        "text": "<contentConfig>"
+      }
+    },
+    "debts.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/debts/debts.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_34": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/debts/debts.pagex#L34",
+        "text": "<contentConfig>"
+      },
+      "line_63": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/debts/debts.pagex#L63",
+        "text": "<contentConfig>"
       },
       "line_94": {
-        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/cash/cash.pagex#L94",
-        "text": "\"highlightContentArea\": true,"
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/debts/debts.pagex#L94",
+        "text": "<contentConfig>"
       },
-      "line_133": {
-        "path": "https://git.sbis.ru/buh/money/blob/rc-21.6100/service/Деньги/navigations/cash/cash.pagex#L133",
-        "text": "\"highlightContentArea\": true,"
+      "line_122": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/debts/debts.pagex#L122",
+        "text": "<contentConfig>"
+      },
+      "line_151": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/debts/debts.pagex#L151",
+        "text": "<contentConfig>"
+      }
+    },
+    "remainders.pagex": {
+      "line_11": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/remainders/remainders.pagex#L11",
+        "text": "<contentConfig>"
+      },
+      "line_55": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/remainders/remainders.pagex#L55",
+        "text": "<contentConfig>"
+      }
+    },
+    "money.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/money.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_66": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/money.pagex#L66",
+        "text": "<contentConfig>"
+      },
+      "line_118": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/money.pagex#L118",
+        "text": "<contentConfig>"
+      },
+      "line_187": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/money.pagex#L187",
+        "text": "<contentConfig>"
+      }
+    },
+    "employee.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/Деньги/navigations/employee/employee.pagex#L7",
+        "text": "<contentConfig>"
+      }
+    },
+    "tips_admin.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/TipsAdmin/navigation/tips_admin.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_18": {
+        "path": "https://git.sbis.ru/buh/money/blob/rc-22.1100/service/TipsAdmin/navigation/tips_admin.pagex#L18",
+        "text": "<contentConfig>"
       }
     }
   },
   "https://git.sbis.ru/buh/salary": {
-    "count": 3,
+    "count": 24,
     "Salary.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_27": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L27",
+        "text": "<contentConfig>"
+      },
+      "line_51": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L51",
+        "text": "<contentConfig>"
+      },
+      "line_75": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L75",
+        "text": "<contentConfig>"
+      },
+      "line_132": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L132",
+        "text": "<contentConfig>"
+      },
+      "line_144": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L144",
+        "text": "<contentConfig>"
+      },
+      "line_182": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L182",
+        "text": "<contentConfig>"
+      },
+      "line_218": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L218",
+        "text": "<contentConfig>"
+      },
+      "line_250": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L250",
+        "text": "<contentConfig>"
+      },
+      "line_344": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L344",
+        "text": "<contentConfig>"
+      },
+      "line_407": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L407",
+        "text": "<contentConfig>"
+      },
+      "line_461": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L461",
+        "text": "<contentConfig>"
+      },
+      "line_491": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L491",
+        "text": "<contentConfig>"
+      },
+      "line_551": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L551",
+        "text": "<contentConfig>"
+      },
+      "line_745": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L745",
+        "text": "<contentConfig>"
+      },
+      "line_783": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L783",
+        "text": "<contentConfig>"
+      },
+      "line_832": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L832",
+        "text": "<contentConfig>"
+      },
+      "line_872": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L872",
+        "text": "<contentConfig>"
+      },
+      "line_914": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L914",
+        "text": "<contentConfig>"
+      },
+      "line_952": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L952",
+        "text": "<contentConfig>"
+      },
+      "line_993": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L993",
+        "text": "<contentConfig>"
+      },
+      "line_1030": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L1030",
+        "text": "<contentConfig>"
+      },
+      "line_1064": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L1064",
+        "text": "<contentConfig>"
+      },
+      "line_1118": {
+        "path": "https://git.sbis.ru/buh/salary/blob/rc-22.1100/service/Зарплата и кадры/Salary.pagex#L1118",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/buh/settings": {
+    "count": 1,
+    "Настройки учета.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/buh/settings/blob/rc-22.1100/service/Настройки учета/Настройки учета.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/ca/ca": {
+    "count": 5,
+    "CAManager.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/ca/ca/blob/rc-22.1100/www/service/Модули/CAManager/CAManager.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_28": {
+        "path": "https://git.sbis.ru/ca/ca/blob/rc-22.1100/www/service/Модули/CAManager/CAManager.pagex#L28",
+        "text": "<contentConfig>"
+      },
+      "line_53": {
+        "path": "https://git.sbis.ru/ca/ca/blob/rc-22.1100/www/service/Модули/CAManager/CAManager.pagex#L53",
+        "text": "<contentConfig>"
+      },
+      "line_77": {
+        "path": "https://git.sbis.ru/ca/ca/blob/rc-22.1100/www/service/Модули/CAManager/CAManager.pagex#L77",
+        "text": "<contentConfig>"
+      },
+      "line_102": {
+        "path": "https://git.sbis.ru/ca/ca/blob/rc-22.1100/www/service/Модули/CAManager/CAManager.pagex#L102",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/ca/edo-crypto": {
+    "count": 7,
+    "SignaturesMyPage.pagex": {
+      "line_5": {
+        "path": "https://git.sbis.ru/ca/edo-crypto/blob/rc-22.1100/www/service/Модули/CAMy/SignaturesMyPage.pagex#L5",
+        "text": "<contentConfig>"
+      }
+    },
+    "SignaturesMyPage.pagex (1)": {
+      "line_5": {
+        "path": "https://git.sbis.ru/ca/edo-crypto/blob/rc-22.1100/www/service/Модули/CAOnline/SignaturesMyPage.pagex#L5",
+        "text": "<contentConfig>"
+      },
+      "line_26": {
+        "path": "https://git.sbis.ru/ca/edo-crypto/blob/rc-22.1100/www/service/Модули/CAOnline/SignaturesMyPage.pagex#L26",
+        "text": "<contentConfig>"
+      }
+    },
+    "CAOnline.pagex": {
+      "line_8": {
+        "path": "https://git.sbis.ru/ca/edo-crypto/blob/rc-22.1100/www/service/Модули/CAOnline/CAOnline.pagex#L8",
+        "text": "<contentConfig>"
+      },
+      "line_90": {
+        "path": "https://git.sbis.ru/ca/edo-crypto/blob/rc-22.1100/www/service/Модули/CAOnline/CAOnline.pagex#L90",
+        "text": "<contentConfig>"
+      },
+      "line_180": {
+        "path": "https://git.sbis.ru/ca/edo-crypto/blob/rc-22.1100/www/service/Модули/CAOnline/CAOnline.pagex#L180",
+        "text": "<contentConfig>"
+      },
+      "line_262": {
+        "path": "https://git.sbis.ru/ca/edo-crypto/blob/rc-22.1100/www/service/Модули/CAOnline/CAOnline.pagex#L262",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/contragents/online": {
+    "count": 57,
+    "EntityNetwork.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/OurOrganization/EntityNetwork.pagex#L9",
+        "text": "<contentConfig>"
+      },
+      "line_25": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/OurOrganization/EntityNetwork.pagex#L25",
+        "text": "<contentConfig>"
+      },
+      "line_41": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/OurOrganization/EntityNetwork.pagex#L41",
+        "text": "<contentConfig>"
+      },
+      "line_57": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/OurOrganization/EntityNetwork.pagex#L57",
+        "text": "<contentConfig>"
+      }
+    },
+    "OurOrganization.pagex": {
+      "line_8": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/OurOrganization/OurOrganization.pagex#L8",
+        "text": "<contentConfig>"
+      },
+      "line_36": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/OurOrganization/OurOrganization.pagex#L36",
+        "text": "<contentConfig>"
+      },
+      "line_116": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/OurOrganization/OurOrganization.pagex#L116",
+        "text": "<contentConfig>"
+      },
+      "line_147": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/OurOrganization/OurOrganization.pagex#L147",
+        "text": "<contentConfig>"
+      },
+      "line_260": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/OurOrganization/OurOrganization.pagex#L260",
+        "text": "<contentConfig>"
+      },
+      "line_371": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/OurOrganization/OurOrganization.pagex#L371",
+        "text": "<contentConfig>"
+      },
+      "line_480": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/OurOrganization/OurOrganization.pagex#L480",
+        "text": "<contentConfig>"
+      }
+    },
+    "POS.pagex": {
+      "line_8": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/OurOrganization/POS.pagex#L8",
+        "text": "<contentConfig>"
+      },
+      "line_50": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/OurOrganization/POS.pagex#L50",
+        "text": "<contentConfig>"
+      },
+      "line_131": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/OurOrganization/POS.pagex#L131",
+        "text": "<contentConfig>"
+      }
+    },
+    "ContractorCardBase.pagex": {
+      "line_5": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L5",
+        "text": "<contentConfig> {"
+      },
+      "line_31": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L31",
+        "text": "<contentConfig> {"
+      },
+      "line_57": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L57",
+        "text": "<contentConfig> {"
+      },
+      "line_83": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L83",
+        "text": "<contentConfig> {"
+      },
+      "line_109": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L109",
+        "text": "<contentConfig> {"
+      },
+      "line_135": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L135",
+        "text": "<contentConfig> {"
+      },
+      "line_161": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L161",
+        "text": "<contentConfig> {"
+      },
+      "line_188": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L188",
+        "text": "<contentConfig> {"
+      },
+      "line_213": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L213",
+        "text": "<contentConfig> {"
+      },
+      "line_238": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L238",
+        "text": "<contentConfig> {"
+      },
+      "line_263": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L263",
+        "text": "<contentConfig> {"
+      },
+      "line_288": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L288",
+        "text": "<contentConfig> {"
+      },
+      "line_313": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L313",
+        "text": "<contentConfig> {"
+      },
+      "line_339": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L339",
+        "text": "<contentConfig> {"
+      },
+      "line_358": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L358",
+        "text": "<contentConfig> {"
+      },
+      "line_377": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L377",
+        "text": "<contentConfig> {"
+      },
+      "line_396": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L396",
+        "text": "<contentConfig> {"
+      },
+      "line_415": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L415",
+        "text": "<contentConfig> {"
+      },
+      "line_434": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L434",
+        "text": "<contentConfig> {"
+      },
+      "line_453": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L453",
+        "text": "<contentConfig> {"
+      },
+      "line_472": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L472",
+        "text": "<contentConfig> {"
+      },
+      "line_491": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L491",
+        "text": "<contentConfig> {"
+      },
+      "line_510": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L510",
+        "text": "<contentConfig> {"
+      },
+      "line_529": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L529",
+        "text": "<contentConfig> {"
+      },
+      "line_548": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L548",
+        "text": "<contentConfig> {"
+      },
+      "line_567": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L567",
+        "text": "<contentConfig>"
+      },
+      "line_584": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L584",
+        "text": "<contentConfig>"
+      },
+      "line_604": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L604",
+        "text": "<contentConfig>"
+      },
+      "line_624": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L624",
+        "text": "<contentConfig>"
+      },
+      "line_644": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L644",
+        "text": "<contentConfig>"
+      },
+      "line_664": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCardBase/ContractorCardBase.pagex#L664",
+        "text": "<contentConfig> {"
+      }
+    },
+    "ContractorCompany.pagex": {
+      "line_5": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCompany/ContractorCompany.pagex#L5",
+        "text": "<contentConfig> {"
+      },
+      "line_64": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCompany/ContractorCompany.pagex#L64",
+        "text": "<contentConfig> {"
+      },
+      "line_126": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCompany/ContractorCompany.pagex#L126",
+        "text": "<contentConfig> {"
+      },
+      "line_193": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCompany/ContractorCompany.pagex#L193",
+        "text": "<contentConfig> {"
+      },
+      "line_252": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCompany/ContractorCompany.pagex#L252",
+        "text": "<contentConfig> {"
+      },
+      "line_314": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCompany/ContractorCompany.pagex#L314",
+        "text": "<contentConfig> {"
+      },
+      "line_375": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCompany/ContractorCompany.pagex#L375",
+        "text": "<contentConfig> {"
+      },
+      "line_422": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCompany/ContractorCompany.pagex#L422",
+        "text": "<contentConfig> {"
+      },
+      "line_456": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCompany/ContractorCompany.pagex#L456",
+        "text": "<contentConfig> {"
+      },
+      "line_514": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCompany/ContractorCompany.pagex#L514",
+        "text": "<contentConfig> {"
+      },
+      "line_569": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCompany/ContractorCompany.pagex#L569",
+        "text": "<contentConfig> {"
+      },
+      "line_625": {
+        "path": "https://git.sbis.ru/contragents/online/blob/rc-22.1100/bl-modules/ContractorCompany/ContractorCompany.pagex#L625",
+        "text": "<contentConfig> {"
+      }
+    }
+  },
+  "https://git.sbis.ru/crm/advert-service": {
+    "count": 21,
+    "AdvertNavxSaby.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavxSaby.pagex#L7",
+        "text": "<contentConfig>"
+      },
+      "line_28": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavxSaby.pagex#L28",
+        "text": "<contentConfig>"
+      },
+      "line_49": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavxSaby.pagex#L49",
+        "text": "<contentConfig>"
+      },
+      "line_94": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavxSaby.pagex#L94",
+        "text": "<contentConfig>"
+      },
+      "line_127": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavxSaby.pagex#L127",
+        "text": "<contentConfig>"
+      },
+      "line_166": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavxSaby.pagex#L166",
+        "text": "<contentConfig>"
+      }
+    },
+    "AdvertNavx.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavx.pagex#L7",
+        "text": "<contentConfig>"
+      },
+      "line_36": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavx.pagex#L36",
+        "text": "<contentConfig>"
+      },
+      "line_58": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavx.pagex#L58",
+        "text": "<contentConfig>"
+      },
+      "line_74": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavx.pagex#L74",
+        "text": "<contentConfig>"
+      },
+      "line_95": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavx.pagex#L95",
+        "text": "<contentConfig>"
+      },
+      "line_118": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavx.pagex#L118",
+        "text": "<contentConfig>"
+      },
+      "line_154": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavx.pagex#L154",
+        "text": "<contentConfig>"
+      },
+      "line_208": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavx.pagex#L208",
+        "text": "<contentConfig>"
+      },
+      "line_265": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavx.pagex#L265",
+        "text": "<contentConfig>"
+      },
+      "line_283": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavx.pagex#L283",
+        "text": "<contentConfig>"
+      },
+      "line_296": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavx.pagex#L296",
+        "text": "<contentConfig>"
+      },
+      "line_341": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavx.pagex#L341",
+        "text": "<contentConfig>"
+      },
+      "line_374": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavx.pagex#L374",
+        "text": "<contentConfig>"
+      },
+      "line_419": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavx.pagex#L419",
+        "text": "<contentConfig>"
+      },
+      "line_446": {
+        "path": "https://git.sbis.ru/crm/advert-service/blob/rc-22.1100/www/service/Модули/AdvertNavx/AdvertNavx.pagex#L446",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/crm/clients-list": {
+    "count": 4,
+    "CRMLists.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/crm/clients-list/blob/rc-22.1100/www/service/Модули/CRMLists/CRMLists.pagex#L7",
+        "text": "<contentConfig>"
+      }
+    },
+    "CRMContractor.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/crm/clients-list/blob/rc-22.1100/www/service/Модули/CRMLists/CRMContractor.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "CRMCompanies.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/crm/clients-list/blob/rc-22.1100/www/service/Модули/CRMLists/CRMCompanies.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "CRMListsConfig.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/crm/clients-list/blob/rc-22.1100/www/service/Модули/CRMLists/CRMListsConfig.pagex#L7",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/crm/core": {
+    "count": 14,
+    "CRMCloud.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/crm/core/blob/rc-22.1100/www/service/Модули/CRMCloud/CRMCloud.pagex#L9",
+        "text": "<contentConfig>"
+      },
+      "line_31": {
+        "path": "https://git.sbis.ru/crm/core/blob/rc-22.1100/www/service/Модули/CRMCloud/CRMCloud.pagex#L31",
+        "text": "<contentConfig>"
+      },
+      "line_116": {
+        "path": "https://git.sbis.ru/crm/core/blob/rc-22.1100/www/service/Модули/CRMCloud/CRMCloud.pagex#L116",
+        "text": "<contentConfig>"
+      },
+      "line_206": {
+        "path": "https://git.sbis.ru/crm/core/blob/rc-22.1100/www/service/Модули/CRMCloud/CRMCloud.pagex#L206",
+        "text": "<contentConfig>"
+      },
+      "line_248": {
+        "path": "https://git.sbis.ru/crm/core/blob/rc-22.1100/www/service/Модули/CRMCloud/CRMCloud.pagex#L248",
+        "text": "<contentConfig>"
+      },
+      "line_339": {
+        "path": "https://git.sbis.ru/crm/core/blob/rc-22.1100/www/service/Модули/CRMCloud/CRMCloud.pagex#L339",
+        "text": "<contentConfig>"
+      },
+      "line_395": {
+        "path": "https://git.sbis.ru/crm/core/blob/rc-22.1100/www/service/Модули/CRMCloud/CRMCloud.pagex#L395",
+        "text": "<contentConfig>"
+      }
+    },
+    "CRMMainWidgets.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/crm/core/blob/rc-22.1100/www/service/Модули/Активные продажи/CRMMainWidgets.pagex#L9",
+        "text": "<contentConfig>"
+      }
+    },
+    "ManagerConfiguration.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/crm/core/blob/rc-22.1100/www/service/Модули/Активные продажи/ManagerConfiguration.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    },
+    "CRMSettings.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/crm/core/blob/rc-22.1100/www/service/Модули/Активные продажи/CRMSettings.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_30": {
+        "path": "https://git.sbis.ru/crm/core/blob/rc-22.1100/www/service/Модули/Активные продажи/CRMSettings.pagex#L30",
+        "text": "<contentConfig>"
+      },
+      "line_51": {
+        "path": "https://git.sbis.ru/crm/core/blob/rc-22.1100/www/service/Модули/Активные продажи/CRMSettings.pagex#L51",
+        "text": "<contentConfig>"
+      }
+    },
+    "CRMDemo.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/crm/core/blob/rc-22.1100/www/service/Модули/Активные продажи/CRMDemo.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    },
+    "LeadsActiveSales.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/crm/core/blob/rc-22.1100/www/service/Модули/Активные продажи/LeadsActiveSales.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/eo/demands": {
+    "count": 1,
+    "RegisterReq.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/eo/demands/blob/rc-22.1100/www/service/Модули/Requirements/RegisterReq.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/disk/client": {
+    "count": 4,
+    "СБИС Диск - основной сервис.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/disk/client/blob/rc-22.1100/www/service/Модули/СБИС Диск - основной сервис/СБИС Диск - основной сервис.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_147": {
+        "path": "https://git.sbis.ru/disk/client/blob/rc-22.1100/www/service/Модули/СБИС Диск - основной сервис/СБИС Диск - основной сервис.pagex#L147",
+        "text": "<contentConfig>"
+      },
+      "line_291": {
+        "path": "https://git.sbis.ru/disk/client/blob/rc-22.1100/www/service/Модули/СБИС Диск - основной сервис/СБИС Диск - основной сервис.pagex#L291",
+        "text": "<contentConfig>"
+      }
+    },
+    "SBISDisk - MySbisRu.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/disk/client/blob/rc-22.1100/www/service/Модули/SBISDisk - MySbisRu/SBISDisk - MySbisRu.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/disk/core": {
+    "count": 2,
+    "DOCVIEW3Routes.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/disk/core/blob/rc-22.1100/www/service/Модули/СбисДиск - публичный сервис/DOCVIEW3Routes.pagex#L7",
+        "text": "<contentConfig>"
+      },
+      "line_17": {
+        "path": "https://git.sbis.ru/disk/core/blob/rc-22.1100/www/service/Модули/СбисДиск - публичный сервис/DOCVIEW3Routes.pagex#L17",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/edo/core": {
+    "count": 5,
+    "OnControlDocuments.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/edo/core/blob/rc-22.1100/www/service/Модули/OnControlDocuments/OnControlDocuments.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "БазовыйКомпонентДокумент.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/edo/core/blob/rc-22.1100/www/service/Модули/БазовыйКомпонентДокумент/БазовыйКомпонентДокумент.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_19": {
+        "path": "https://git.sbis.ru/edo/core/blob/rc-22.1100/www/service/Модули/БазовыйКомпонентДокумент/БазовыйКомпонентДокумент.pagex#L19",
+        "text": "<contentConfig>"
+      }
+    },
+    "Доверенности.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/edo/core/blob/rc-22.1100/www/service/Модули/Доверенности/Доверенности.pagex#L7",
+        "text": "<contentConfig>"
+      }
+    },
+    "Регламенты.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/edo/core/blob/rc-22.1100/www/service/Модули/Регламенты/Регламенты.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/edo/edo-client": {
+    "count": 30,
+    "Документооборот.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Документооборот.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_26": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Документооборот.pagex#L26",
+        "text": "<contentConfig>"
+      },
+      "line_133": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Документооборот.pagex#L133",
+        "text": "<contentConfig>"
+      },
+      "line_204": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Документооборот.pagex#L204",
+        "text": "<contentConfig>"
+      },
+      "line_302": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Документооборот.pagex#L302",
+        "text": "<contentConfig>"
+      },
+      "line_369": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Документооборот.pagex#L369",
+        "text": "<contentConfig>"
+      },
+      "line_449": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Документооборот.pagex#L449",
+        "text": "<contentConfig>"
+      },
+      "line_530": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Документооборот.pagex#L530",
+        "text": "<contentConfig>"
+      },
+      "line_567": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Документооборот.pagex#L567",
+        "text": "<contentConfig>"
+      },
+      "line_604": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Документооборот.pagex#L604",
+        "text": "<contentConfig>"
+      },
+      "line_622": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Документооборот.pagex#L622",
+        "text": "<contentConfig>"
+      },
+      "line_644": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Документооборот.pagex#L644",
+        "text": "<contentConfig>"
+      },
+      "line_705": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Документооборот.pagex#L705",
+        "text": "<contentConfig>"
+      }
+    },
+    "Электронный документооборот.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_61": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L61",
+        "text": "<contentConfig>"
+      },
+      "line_163": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L163",
+        "text": "<contentConfig>"
+      },
+      "line_291": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L291",
+        "text": "<contentConfig>"
+      },
+      "line_350": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L350",
+        "text": "<contentConfig>"
+      },
+      "line_453": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L453",
+        "text": "<contentConfig>"
+      },
+      "line_583": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L583",
+        "text": "<contentConfig>"
+      },
+      "line_655": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L655",
+        "text": "<contentConfig>"
+      },
+      "line_750": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L750",
+        "text": "<contentConfig>"
+      },
+      "line_800": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L800",
+        "text": "<contentConfig>"
+      },
+      "line_851": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L851",
+        "text": "<contentConfig>"
+      },
+      "line_940": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L940",
+        "text": "<contentConfig>"
+      },
+      "line_1023": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L1023",
+        "text": "<contentConfig>"
+      },
+      "line_1072": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L1072",
+        "text": "<contentConfig>"
+      },
+      "line_1126": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L1126",
+        "text": "<contentConfig>"
+      },
+      "line_1160": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L1160",
+        "text": "<contentConfig>"
+      },
+      "line_1265": {
+        "path": "https://git.sbis.ru/edo/edo-client/blob/rc-22.1100/www/service/Модули/Электронный документооборот/Электронный документооборот.pagex#L1265",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/edo/roaming-tools": {
+    "count": 11,
+    "RoamingAdmin.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/edo/roaming-tools/blob/rc-22.1100/roaming-admin/www/Модули/Администрирование роуминга/RoamingAdmin.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_53": {
+        "path": "https://git.sbis.ru/edo/roaming-tools/blob/rc-22.1100/roaming-admin/www/Модули/Администрирование роуминга/RoamingAdmin.pagex#L53",
+        "text": "<contentConfig>"
+      },
+      "line_94": {
+        "path": "https://git.sbis.ru/edo/roaming-tools/blob/rc-22.1100/roaming-admin/www/Модули/Администрирование роуминга/RoamingAdmin.pagex#L94",
+        "text": "<contentConfig>"
+      },
+      "line_127": {
+        "path": "https://git.sbis.ru/edo/roaming-tools/blob/rc-22.1100/roaming-admin/www/Модули/Администрирование роуминга/RoamingAdmin.pagex#L127",
+        "text": "<contentConfig>"
+      },
+      "line_176": {
+        "path": "https://git.sbis.ru/edo/roaming-tools/blob/rc-22.1100/roaming-admin/www/Модули/Администрирование роуминга/RoamingAdmin.pagex#L176",
+        "text": "<contentConfig>"
+      },
+      "line_225": {
+        "path": "https://git.sbis.ru/edo/roaming-tools/blob/rc-22.1100/roaming-admin/www/Модули/Администрирование роуминга/RoamingAdmin.pagex#L225",
+        "text": "<contentConfig>"
+      },
+      "line_274": {
+        "path": "https://git.sbis.ru/edo/roaming-tools/blob/rc-22.1100/roaming-admin/www/Модули/Администрирование роуминга/RoamingAdmin.pagex#L274",
+        "text": "<contentConfig>"
+      },
+      "line_323": {
+        "path": "https://git.sbis.ru/edo/roaming-tools/blob/rc-22.1100/roaming-admin/www/Модули/Администрирование роуминга/RoamingAdmin.pagex#L323",
+        "text": "<contentConfig>"
+      },
+      "line_372": {
+        "path": "https://git.sbis.ru/edo/roaming-tools/blob/rc-22.1100/roaming-admin/www/Модули/Администрирование роуминга/RoamingAdmin.pagex#L372",
+        "text": "<contentConfig>"
+      },
+      "line_414": {
+        "path": "https://git.sbis.ru/edo/roaming-tools/blob/rc-22.1100/roaming-admin/www/Модули/Администрирование роуминга/RoamingAdmin.pagex#L414",
+        "text": "<contentConfig>"
+      },
+      "line_464": {
+        "path": "https://git.sbis.ru/edo/roaming-tools/blob/rc-22.1100/roaming-admin/www/Модули/Администрирование роуминга/RoamingAdmin.pagex#L464",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/engine/navigation": {
+    "count": 2,
+    "page.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/engine/navigation/blob/rc-22.1100/test/tests/test-sbis-navigation/clouds/TestNavigation/pagex/page.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_56": {
+        "path": "https://git.sbis.ru/engine/navigation/blob/rc-22.1100/test/tests/test-sbis-navigation/clouds/TestNavigation/pagex/page.pagex#L56",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/eo/analytics": {
+    "count": 4,
+    "Администрирование сервиса АБ.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/eo/analytics/blob/rc-22.1100/www/service/Модули/Администрирование сервиса АБ/Администрирование сервиса АБ.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_12": {
+        "path": "https://git.sbis.ru/eo/analytics/blob/rc-22.1100/www/service/Модули/Администрирование сервиса АБ/Администрирование сервиса АБ.pagex#L12",
+        "text": "<contentConfig>"
+      },
+      "line_21": {
+        "path": "https://git.sbis.ru/eo/analytics/blob/rc-22.1100/www/service/Модули/Администрирование сервиса АБ/Администрирование сервиса АБ.pagex#L21",
+        "text": "<contentConfig>"
+      },
+      "line_30": {
+        "path": "https://git.sbis.ru/eo/analytics/blob/rc-22.1100/www/service/Модули/Администрирование сервиса АБ/Администрирование сервиса АБ.pagex#L30",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/eo/collation": {
+    "count": 10,
+    "Collation.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/eo/collation/blob/rc-22.1100/www/service/Модули/CollationCore/Collation.pagex#L7",
+        "text": "<contentConfig>"
+      },
+      "line_29": {
+        "path": "https://git.sbis.ru/eo/collation/blob/rc-22.1100/www/service/Модули/CollationCore/Collation.pagex#L29",
+        "text": "<contentConfig>"
+      },
+      "line_74": {
+        "path": "https://git.sbis.ru/eo/collation/blob/rc-22.1100/www/service/Модули/CollationCore/Collation.pagex#L74",
+        "text": "<contentConfig>"
+      },
+      "line_118": {
+        "path": "https://git.sbis.ru/eo/collation/blob/rc-22.1100/www/service/Модули/CollationCore/Collation.pagex#L118",
+        "text": "<contentConfig>"
+      },
+      "line_148": {
+        "path": "https://git.sbis.ru/eo/collation/blob/rc-22.1100/www/service/Модули/CollationCore/Collation.pagex#L148",
+        "text": "<contentConfig>"
+      },
+      "line_183": {
+        "path": "https://git.sbis.ru/eo/collation/blob/rc-22.1100/www/service/Модули/CollationCore/Collation.pagex#L183",
+        "text": "<contentConfig>"
+      },
+      "line_219": {
+        "path": "https://git.sbis.ru/eo/collation/blob/rc-22.1100/www/service/Модули/CollationCore/Collation.pagex#L219",
+        "text": "<contentConfig>"
+      },
+      "line_255": {
+        "path": "https://git.sbis.ru/eo/collation/blob/rc-22.1100/www/service/Модули/CollationCore/Collation.pagex#L255",
+        "text": "<contentConfig>"
+      },
+      "line_281": {
+        "path": "https://git.sbis.ru/eo/collation/blob/rc-22.1100/www/service/Модули/CollationCore/Collation.pagex#L281",
+        "text": "<contentConfig>"
+      },
+      "line_309": {
+        "path": "https://git.sbis.ru/eo/collation/blob/rc-22.1100/www/service/Модули/CollationCore/Collation.pagex#L309",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/eo/registry": {
+    "count": 19,
+    "Report registry.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_86": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L86",
+        "text": "<contentConfig>"
+      },
+      "line_246": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L246",
+        "text": "<contentConfig>"
+      },
+      "line_341": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L341",
+        "text": "<contentConfig>"
+      },
+      "line_389": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L389",
+        "text": "<contentConfig>"
+      },
+      "line_464": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L464",
+        "text": "<contentConfig>"
+      },
+      "line_559": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L559",
+        "text": "<contentConfig>"
+      },
+      "line_610": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L610",
+        "text": "<contentConfig>"
+      },
+      "line_685": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L685",
+        "text": "<contentConfig>"
+      },
+      "line_780": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L780",
+        "text": "<contentConfig>"
+      },
+      "line_828": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L828",
+        "text": "<contentConfig>"
+      },
+      "line_903": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L903",
+        "text": "<contentConfig>"
+      },
+      "line_999": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L999",
+        "text": "<contentConfig>"
+      },
+      "line_1095": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L1095",
+        "text": "<contentConfig>"
+      },
+      "line_1190": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L1190",
+        "text": "<contentConfig>"
+      },
+      "line_1238": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L1238",
+        "text": "<contentConfig>"
+      },
+      "line_1313": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/Report registry/Report registry.pagex#L1313",
+        "text": "<contentConfig>"
+      }
+    },
+    "InspectorEvents.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/InspectorEvents/InspectorEvents.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    },
+    "EOSummary.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/eo/registry/blob/rc-22.1100/www/service/Модули/EOSummary/EOSummary.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/field-managment/geo-provider": {
+    "count": 3,
+    "GeoProviderAdminPanel.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/field-managment/geo-provider/blob/rc-22.1100/geo-provider/AdminTask/GeoProviderAdminPanel.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_20": {
+        "path": "https://git.sbis.ru/field-managment/geo-provider/blob/rc-22.1100/geo-provider/AdminTask/GeoProviderAdminPanel.pagex#L20",
+        "text": "<contentConfig>"
+      },
+      "line_37": {
+        "path": "https://git.sbis.ru/field-managment/geo-provider/blob/rc-22.1100/geo-provider/AdminTask/GeoProviderAdminPanel.pagex#L37",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/field-managment/presto-delivery": {
+    "count": 2,
+    "Delivery.pagex": {
+      "line_5": {
+        "path": "https://git.sbis.ru/field-managment/presto-delivery/blob/rc-22.1100/main-service/Delivery/Delivery.pagex#L5",
+        "text": "<contentConfig>"
+      }
+    },
+    "DeliverySP.pagex": {
+      "line_5": {
+        "path": "https://git.sbis.ru/field-managment/presto-delivery/blob/rc-22.1100/main-service/Delivery/DeliverySP.pagex#L5",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/message/msg": {
+    "count": 8,
+    "Обмен сообщениями.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/message/msg/blob/rc-22.1100/www/service/Модули/Обмен сообщениями/Обмен сообщениями.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_75": {
+        "path": "https://git.sbis.ru/message/msg/blob/rc-22.1100/www/service/Модули/Обмен сообщениями/Обмен сообщениями.pagex#L75",
+        "text": "<contentConfig>"
+      },
+      "line_103": {
+        "path": "https://git.sbis.ru/message/msg/blob/rc-22.1100/www/service/Модули/Обмен сообщениями/Обмен сообщениями.pagex#L103",
+        "text": "<contentConfig>"
+      },
+      "line_151": {
+        "path": "https://git.sbis.ru/message/msg/blob/rc-22.1100/www/service/Модули/Обмен сообщениями/Обмен сообщениями.pagex#L151",
+        "text": "<contentConfig>"
+      },
+      "line_222": {
+        "path": "https://git.sbis.ru/message/msg/blob/rc-22.1100/www/service/Модули/Обмен сообщениями/Обмен сообщениями.pagex#L222",
+        "text": "<contentConfig>"
+      },
+      "line_262": {
+        "path": "https://git.sbis.ru/message/msg/blob/rc-22.1100/www/service/Модули/Обмен сообщениями/Обмен сообщениями.pagex#L262",
+        "text": "<contentConfig>"
+      },
+      "line_302": {
+        "path": "https://git.sbis.ru/message/msg/blob/rc-22.1100/www/service/Модули/Обмен сообщениями/Обмен сообщениями.pagex#L302",
+        "text": "<contentConfig>"
+      },
+      "line_333": {
+        "path": "https://git.sbis.ru/message/msg/blob/rc-22.1100/www/service/Модули/Обмен сообщениями/Обмен сообщениями.pagex#L333",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/navigation-configuration/configuration": {
+    "count": 7,
+    "Configuration.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/navigation-configuration/configuration/blob/rc-22.1100/www/service/Модули/Configuration/Configuration.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_29": {
+        "path": "https://git.sbis.ru/navigation-configuration/configuration/blob/rc-22.1100/www/service/Модули/Configuration/Configuration.pagex#L29",
+        "text": "<contentConfig>"
+      },
+      "line_47": {
+        "path": "https://git.sbis.ru/navigation-configuration/configuration/blob/rc-22.1100/www/service/Модули/Configuration/Configuration.pagex#L47",
+        "text": "<contentConfig>"
+      },
+      "line_76": {
+        "path": "https://git.sbis.ru/navigation-configuration/configuration/blob/rc-22.1100/www/service/Модули/Configuration/Configuration.pagex#L76",
+        "text": "<contentConfig>"
+      }
+    },
+    "SettingsInterface.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/navigation-configuration/configuration/blob/rc-22.1100/www/service/Модули/Configuration/SettingsInterface.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    },
+    "App.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/navigation-configuration/configuration/blob/rc-22.1100/www/service/Модули/App/App.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_34": {
+        "path": "https://git.sbis.ru/navigation-configuration/configuration/blob/rc-22.1100/www/service/Модули/App/App.pagex#L34",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/navigation-configuration/general-interface-settings": {
+    "count": 2,
+    "GeneralSettings.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/navigation-configuration/general-interface-settings/blob/rc-22.1100/www/service/Модули/GeneralSettings/GeneralSettings.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_35": {
+        "path": "https://git.sbis.ru/navigation-configuration/general-interface-settings/blob/rc-22.1100/www/service/Модули/GeneralSettings/GeneralSettings.pagex#L35",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/notice/core": {
+    "count": 4,
+    "NoticeSettingsMyPage.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/notice/core/blob/rc-22.1100/www/service/modules/NotificationsFizik/NoticeSettingsMyPage.pagex#L7",
+        "text": "<contentConfig>"
+      }
+    },
+    "NoticeSettings.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/notice/core/blob/rc-22.1100/www/service/modules/NotificationsOnline/NoticeSettings.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    },
+    "NoticeSettingsMyPage.pagex (1)": {
+      "line_7": {
+        "path": "https://git.sbis.ru/notice/core/blob/rc-22.1100/www/service/modules/NotificationsOnline/NoticeSettingsMyPage.pagex#L7",
+        "text": "<contentConfig>"
+      },
+      "line_53": {
+        "path": "https://git.sbis.ru/notice/core/blob/rc-22.1100/www/service/modules/NotificationsOnline/NoticeSettingsMyPage.pagex#L53",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/notice/distribution": {
+    "count": 3,
+    "Distribution.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/notice/distribution/blob/rc-22.1100/www/service/Модули/Distribution/Distribution.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_46": {
+        "path": "https://git.sbis.ru/notice/distribution/blob/rc-22.1100/www/service/Модули/Distribution/Distribution.pagex#L46",
+        "text": "<contentConfig>"
+      },
+      "line_89": {
+        "path": "https://git.sbis.ru/notice/distribution/blob/rc-22.1100/www/service/Модули/Distribution/Distribution.pagex#L89",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/online/inside": {
+    "count": 7,
+    "DemoOnlinePage.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/online/inside/blob/rc-22.1100/online/www/service/modules/DemoOnlinePage/DemoOnlinePage.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_43": {
+        "path": "https://git.sbis.ru/online/inside/blob/rc-22.1100/online/www/service/modules/DemoOnlinePage/DemoOnlinePage.pagex#L43",
+        "text": "<contentConfig>"
+      },
+      "line_73": {
+        "path": "https://git.sbis.ru/online/inside/blob/rc-22.1100/online/www/service/modules/DemoOnlinePage/DemoOnlinePage.pagex#L73",
+        "text": "<contentConfig>"
+      },
+      "line_100": {
+        "path": "https://git.sbis.ru/online/inside/blob/rc-22.1100/online/www/service/modules/DemoOnlinePage/DemoOnlinePage.pagex#L100",
+        "text": "<contentConfig>"
+      },
+      "line_107": {
+        "path": "https://git.sbis.ru/online/inside/blob/rc-22.1100/online/www/service/modules/DemoOnlinePage/DemoOnlinePage.pagex#L107",
+        "text": "<contentConfig>"
+      }
+    },
+    "MainPage.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/online/inside/blob/rc-22.1100/online/www/service/modules/MainPage/MainPage.pagex#L3",
+        "text": "<contentConfig>{}</contentConfig>"
+      },
+      "line_6": {
+        "path": "https://git.sbis.ru/online/inside/blob/rc-22.1100/online/www/service/modules/MainPage/MainPage.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/person/person": {
+    "count": 2,
+    "PersonProfile.pagex": {
+      "line_5": {
+        "path": "https://git.sbis.ru/person/person/blob/rc-22.1100/www/service/Модули/PersonProfile/PersonProfile.pagex#L5",
+        "text": "<contentConfig>"
+      },
+      "line_39": {
+        "path": "https://git.sbis.ru/person/person/blob/rc-22.1100/www/service/Модули/PersonProfile/PersonProfile.pagex#L39",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/person/person-verifications": {
+    "count": 2,
+    "VerificationsOnline.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/person/person-verifications/blob/rc-22.1100/service/VerificationsOnline/VerificationsOnline.pagex#L7",
+        "text": "<contentConfig>"
+      },
+      "line_91": {
+        "path": "https://git.sbis.ru/person/person-verifications/blob/rc-22.1100/service/VerificationsOnline/VerificationsOnline.pagex#L91",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/person/recruitment": {
+    "count": 8,
+    "Recruitment.pagex": {
+      "line_5": {
+        "path": "https://git.sbis.ru/person/recruitment/blob/rc-22.1100/www/Recruitment/Recruitment.pagex#L5",
+        "text": "<contentConfig>"
+      },
+      "line_70": {
+        "path": "https://git.sbis.ru/person/recruitment/blob/rc-22.1100/www/Recruitment/Recruitment.pagex#L70",
+        "text": "<contentConfig>"
+      },
+      "line_135": {
+        "path": "https://git.sbis.ru/person/recruitment/blob/rc-22.1100/www/Recruitment/Recruitment.pagex#L135",
+        "text": "<contentConfig>"
+      },
+      "line_200": {
+        "path": "https://git.sbis.ru/person/recruitment/blob/rc-22.1100/www/Recruitment/Recruitment.pagex#L200",
+        "text": "<contentConfig>"
+      },
+      "line_267": {
+        "path": "https://git.sbis.ru/person/recruitment/blob/rc-22.1100/www/Recruitment/Recruitment.pagex#L267",
+        "text": "<contentConfig>"
+      },
+      "line_288": {
+        "path": "https://git.sbis.ru/person/recruitment/blob/rc-22.1100/www/Recruitment/Recruitment.pagex#L288",
+        "text": "<contentConfig>"
+      },
+      "line_370": {
+        "path": "https://git.sbis.ru/person/recruitment/blob/rc-22.1100/www/Recruitment/Recruitment.pagex#L370",
+        "text": "<contentConfig>"
+      },
+      "line_394": {
+        "path": "https://git.sbis.ru/person/recruitment/blob/rc-22.1100/www/Recruitment/Recruitment.pagex#L394",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/plugin-task-queue/task-queue-service": {
+    "count": 2,
+    "Navigation.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/plugin-task-queue/task-queue-service/blob/rc-22.1100/www/BL Task Diagnostics/Navigation.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_37": {
+        "path": "https://git.sbis.ru/plugin-task-queue/task-queue-service/blob/rc-22.1100/www/BL Task Diagnostics/Navigation.pagex#L37",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/plugin/client": {
+    "count": 1,
+    "SBIS3PluginSettings.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/plugin/client/blob/rc-22.1100/www/service/Модули/SBIS3PluginSettings/SBIS3PluginSettings.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/plugin/software-monitoring": {
+    "count": 1,
+    "SoftwareMonitoring.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/plugin/software-monitoring/blob/rc-22.1100/www/service/Модули/SoftwareMonitoringOnline/SoftwareMonitoring.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/pm/core": {
+    "count": 7,
+    "ProjectManagement.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/pm/core/blob/rc-22.1100/www/service/Модули/ProjectManagement/ProjectManagement.pagex#L7",
+        "text": "<contentConfig>"
+      },
+      "line_68": {
+        "path": "https://git.sbis.ru/pm/core/blob/rc-22.1100/www/service/Модули/ProjectManagement/ProjectManagement.pagex#L68",
+        "text": "<contentConfig>"
+      },
+      "line_129": {
+        "path": "https://git.sbis.ru/pm/core/blob/rc-22.1100/www/service/Модули/ProjectManagement/ProjectManagement.pagex#L129",
+        "text": "<contentConfig>"
+      },
+      "line_183": {
+        "path": "https://git.sbis.ru/pm/core/blob/rc-22.1100/www/service/Модули/ProjectManagement/ProjectManagement.pagex#L183",
+        "text": "<contentConfig>"
+      },
+      "line_230": {
+        "path": "https://git.sbis.ru/pm/core/blob/rc-22.1100/www/service/Модули/ProjectManagement/ProjectManagement.pagex#L230",
+        "text": "<contentConfig>"
+      },
+      "line_282": {
+        "path": "https://git.sbis.ru/pm/core/blob/rc-22.1100/www/service/Модули/ProjectManagement/ProjectManagement.pagex#L282",
+        "text": "<contentConfig>"
+      },
+      "line_334": {
+        "path": "https://git.sbis.ru/pm/core/blob/rc-22.1100/www/service/Модули/ProjectManagement/ProjectManagement.pagex#L334",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/pm/working-area": {
+    "count": 2,
+    "AreaOfResponsibility.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/pm/working-area/blob/rc-22.1100/www/service/Модули/AreaOfResponsibility/AreaOfResponsibility.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_25": {
+        "path": "https://git.sbis.ru/pm/working-area/blob/rc-22.1100/www/service/Модули/AreaOfResponsibility/AreaOfResponsibility.pagex#L25",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/printforms/templateeditor": {
+    "count": 4,
+    "ACSFunctions.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/printforms/templateeditor/blob/rc-22.1100/www/service/Модули/Пользовательские печатные формы/ACSFunctions.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "ACSOperations.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/printforms/templateeditor/blob/rc-22.1100/www/service/Модули/Пользовательские печатные формы/ACSOperations.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "FormatsList.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/printforms/templateeditor/blob/rc-22.1100/www/service/Модули/Пользовательские печатные формы/FormatsList.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "PTPage.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/printforms/templateeditor/blob/rc-22.1100/www/service/Модули/Пользовательские печатные формы/PTPage.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/production/production": {
+    "count": 2,
+    "ProductionOnline.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/production/production/blob/rc-22.1100/www/service/Модули/ProductionOnline/ProductionOnline.pagex#L7",
+        "text": "<contentConfig>"
+      },
+      "line_30": {
+        "path": "https://git.sbis.ru/production/production/blob/rc-22.1100/www/service/Модули/ProductionOnline/ProductionOnline.pagex#L30",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/reclamations/contract-service": {
+    "count": 18,
+    "ClaimsClient.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/ClaimsClient/ClaimsClient.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "Incident.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Incidents/Incident.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_57": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Incidents/Incident.pagex#L57",
+        "text": "<contentConfig>"
+      },
+      "line_108": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Incidents/Incident.pagex#L108",
+        "text": "<contentConfig>"
+      },
+      "line_197": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Incidents/Incident.pagex#L197",
+        "text": "<contentConfig>"
+      }
+    },
+    "reviews.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Рекламации/reviews.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    },
+    "contact_center.pagex": {
+      "line_10": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Рекламации/contact_center.pagex#L10",
+        "text": "<contentConfig>"
+      }
+    },
+    "chats.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Рекламации/chats.pagex#L9",
+        "text": "<contentConfig>"
+      },
+      "line_89": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Рекламации/chats.pagex#L89",
+        "text": "<contentConfig>"
+      }
+    },
+    "support_service.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Рекламации/support_service.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_57": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Рекламации/support_service.pagex#L57",
+        "text": "<contentConfig>"
+      },
+      "line_91": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Рекламации/support_service.pagex#L91",
+        "text": "<contentConfig>"
+      },
+      "line_143": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Рекламации/support_service.pagex#L143",
+        "text": "<contentConfig>"
+      },
+      "line_195": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Рекламации/support_service.pagex#L195",
+        "text": "<contentConfig>"
+      },
+      "line_286": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Рекламации/support_service.pagex#L286",
+        "text": "<contentConfig>"
+      },
+      "line_351": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Рекламации/support_service.pagex#L351",
+        "text": "<contentConfig>"
+      }
+    },
+    "Chatbot.pagex": {
+      "line_10": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Chatbot/Chatbot.pagex#L10",
+        "text": "<contentConfig>"
+      },
+      "line_45": {
+        "path": "https://git.sbis.ru/reclamations/contract-service/blob/rc-22.1100/service/Chatbot/Chatbot.pagex#L45",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/retail/salary": {
+    "count": 1,
+    "CorporateMeals.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/retail/salary/blob/rc-22.1100/www/service/Модули/CashlessOnline/CorporateMeals.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/retail/stats": {
+    "count": 3,
+    "Retail stats.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/retail/stats/blob/rc-22.1100/www/service/Модули/Retail stats/Retail stats.pagex#L7",
+        "text": "<contentConfig>"
+      },
+      "line_27": {
+        "path": "https://git.sbis.ru/retail/stats/blob/rc-22.1100/www/service/Модули/Retail stats/Retail stats.pagex#L27",
+        "text": "<contentConfig>"
+      },
+      "line_52": {
+        "path": "https://git.sbis.ru/retail/stats/blob/rc-22.1100/www/service/Модули/Retail stats/Retail stats.pagex#L52",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/eo/docflow": {
+    "count": 1,
+    "InspectorAccountDocflow.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/eo/docflow/blob/rc-22.1100/www/service/Модули/InspectorAccountDocflow/InspectorAccountDocflow.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/root/sbis3-device": {
+    "count": 4,
+    "WorkplaceSettings.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/root/sbis3-device/blob/rc-22.1100/www/service/Модули/DeviceConfiguration/WorkplaceSettings.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_64": {
+        "path": "https://git.sbis.ru/root/sbis3-device/blob/rc-22.1100/www/service/Модули/DeviceConfiguration/WorkplaceSettings.pagex#L64",
+        "text": "<contentConfig>"
+      },
+      "line_114": {
+        "path": "https://git.sbis.ru/root/sbis3-device/blob/rc-22.1100/www/service/Модули/DeviceConfiguration/WorkplaceSettings.pagex#L114",
+        "text": "<contentConfig>"
+      }
+    },
+    "MyWorkplace.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/root/sbis3-device/blob/rc-22.1100/www/service/Модули/WorkplaceDevice/MyWorkplace.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/root/sbis3-nomcatalog": {
+    "count": 10,
+    "FavoriteSuppliers.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/root/sbis3-nomcatalog/blob/rc-22.1100/www/FavoriteSuppliers/FavoriteSuppliers.pagex#L7",
+        "text": "<contentConfig>"
+      },
+      "line_59": {
+        "path": "https://git.sbis.ru/root/sbis3-nomcatalog/blob/rc-22.1100/www/FavoriteSuppliers/FavoriteSuppliers.pagex#L59",
+        "text": "<contentConfig>"
+      }
+    },
+    "Global Catalog Inside.pagex": {
+      "line_4": {
+        "path": "https://git.sbis.ru/root/sbis3-nomcatalog/blob/rc-22.1100/www/Global Catalog Inside/Global Catalog Inside.pagex#L4",
+        "text": "<contentConfig>"
+      },
+      "line_26": {
+        "path": "https://git.sbis.ru/root/sbis3-nomcatalog/blob/rc-22.1100/www/Global Catalog Inside/Global Catalog Inside.pagex#L26",
+        "text": "<contentConfig>"
+      }
+    },
+    "Global Catalog.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/root/sbis3-nomcatalog/blob/rc-22.1100/www/Global Catalog/Global Catalog.pagex#L7",
+        "text": "<contentConfig>"
+      },
+      "line_114": {
+        "path": "https://git.sbis.ru/root/sbis3-nomcatalog/blob/rc-22.1100/www/Global Catalog/Global Catalog.pagex#L114",
+        "text": "<contentConfig>"
+      },
+      "line_139": {
+        "path": "https://git.sbis.ru/root/sbis3-nomcatalog/blob/rc-22.1100/www/Global Catalog/Global Catalog.pagex#L139",
+        "text": "<contentConfig>"
+      },
+      "line_172": {
+        "path": "https://git.sbis.ru/root/sbis3-nomcatalog/blob/rc-22.1100/www/Global Catalog/Global Catalog.pagex#L172",
+        "text": "<contentConfig>"
+      },
+      "line_202": {
+        "path": "https://git.sbis.ru/root/sbis3-nomcatalog/blob/rc-22.1100/www/Global Catalog/Global Catalog.pagex#L202",
+        "text": "<contentConfig>"
+      },
+      "line_215": {
+        "path": "https://git.sbis.ru/root/sbis3-nomcatalog/blob/rc-22.1100/www/Global Catalog/Global Catalog.pagex#L215",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/root/sbis3-notes": {
+    "count": 1,
+    "Notes.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/root/sbis3-notes/blob/rc-22.1100/www/service/Модули/Сервис заметок/Notes.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/root/sbis3-paysys": {
+    "count": 1,
+    "PaySysClient.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/root/sbis3-paysys/blob/rc-22.1100/main/www/PaySysClient/PaySysClient.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/root/sbis3-person": {
+    "count": 13,
+    "Instructions.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/root/sbis3-person/blob/rc-22.1100/www/service/Модули/Instructions/Instructions.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_50": {
+        "path": "https://git.sbis.ru/root/sbis3-person/blob/rc-22.1100/www/service/Модули/Instructions/Instructions.pagex#L50",
+        "text": "<contentConfig>"
+      },
+      "line_131": {
+        "path": "https://git.sbis.ru/root/sbis3-person/blob/rc-22.1100/www/service/Модули/Instructions/Instructions.pagex#L131",
+        "text": "<contentConfig>"
+      },
+      "line_201": {
+        "path": "https://git.sbis.ru/root/sbis3-person/blob/rc-22.1100/www/service/Модули/Instructions/Instructions.pagex#L201",
+        "text": "<contentConfig>"
+      }
+    },
+    "Orders.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/root/sbis3-person/blob/rc-22.1100/www/service/Модули/Orders/Orders.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "Smot.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/root/sbis3-person/blob/rc-22.1100/www/service/Модули/StaffMotivation/Smot.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_22": {
+        "path": "https://git.sbis.ru/root/sbis3-person/blob/rc-22.1100/www/service/Модули/StaffMotivation/Smot.pagex#L22",
+        "text": "<contentConfig>"
+      },
+      "line_58": {
+        "path": "https://git.sbis.ru/root/sbis3-person/blob/rc-22.1100/www/service/Модули/StaffMotivation/Smot.pagex#L58",
+        "text": "<contentConfig>"
+      },
+      "line_94": {
+        "path": "https://git.sbis.ru/root/sbis3-person/blob/rc-22.1100/www/service/Модули/StaffMotivation/Smot.pagex#L94",
+        "text": "<contentConfig>"
+      },
+      "line_144": {
+        "path": "https://git.sbis.ru/root/sbis3-person/blob/rc-22.1100/www/service/Модули/StaffMotivation/Smot.pagex#L144",
+        "text": "<contentConfig>"
+      },
+      "line_175": {
+        "path": "https://git.sbis.ru/root/sbis3-person/blob/rc-22.1100/www/service/Модули/StaffMotivation/Smot.pagex#L175",
+        "text": "<contentConfig>"
+      },
+      "line_237": {
+        "path": "https://git.sbis.ru/root/sbis3-person/blob/rc-22.1100/www/service/Модули/StaffMotivation/Smot.pagex#L237",
+        "text": "<contentConfig>"
+      }
+    },
+    "StaffEvents.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/root/sbis3-person/blob/rc-22.1100/www/service/Модули/StaffEvents/StaffEvents.pagex#L9",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/root/sbis3-personal-calendar": {
+    "count": 5,
+    "ElectronicQueue.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/root/sbis3-personal-calendar/blob/rc-22.1100/main-service/service/ElectronicQueue/ElectronicQueue.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_42": {
+        "path": "https://git.sbis.ru/root/sbis3-personal-calendar/blob/rc-22.1100/main-service/service/ElectronicQueue/ElectronicQueue.pagex#L42",
+        "text": "<contentConfig>"
+      },
+      "line_84": {
+        "path": "https://git.sbis.ru/root/sbis3-personal-calendar/blob/rc-22.1100/main-service/service/ElectronicQueue/ElectronicQueue.pagex#L84",
+        "text": "<contentConfig>"
+      },
+      "line_123": {
+        "path": "https://git.sbis.ru/root/sbis3-personal-calendar/blob/rc-22.1100/main-service/service/ElectronicQueue/ElectronicQueue.pagex#L123",
+        "text": "<contentConfig>"
+      },
+      "line_161": {
+        "path": "https://git.sbis.ru/root/sbis3-personal-calendar/blob/rc-22.1100/main-service/service/ElectronicQueue/ElectronicQueue.pagex#L161",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/root/sbis3-presto": {
+    "count": 5,
+    "Presto.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/root/sbis3-presto/blob/rc-22.1100/www/service/Модули/Presto/Presto.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_43": {
+        "path": "https://git.sbis.ru/root/sbis3-presto/blob/rc-22.1100/www/service/Модули/Presto/Presto.pagex#L43",
+        "text": "<contentConfig>"
+      }
+    },
+    "PrestoStopList.pagex": {
+      "line_4": {
+        "path": "https://git.sbis.ru/root/sbis3-presto/blob/rc-22.1100/www/service/Модули/PrestoOnline/PrestoStopList.pagex#L4",
+        "text": "<contentConfig>"
+      }
+    },
+    "Configuration.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/root/sbis3-presto/blob/rc-22.1100/www/service/Модули/PrestoOnline/Configuration.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "ConfigurationSP.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/root/sbis3-presto/blob/rc-22.1100/www/service/Модули/PrestoOnline/ConfigurationSP.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/root/sbis3-retail": {
+    "count": 15,
+    "RetailCore.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/root/sbis3-retail/blob/rc-22.1100/www/service/Модули/Retail Online/RetailCore.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_17": {
+        "path": "https://git.sbis.ru/root/sbis3-retail/blob/rc-22.1100/www/service/Модули/Retail Online/RetailCore.pagex#L17",
+        "text": "<contentConfig>"
+      },
+      "line_26": {
+        "path": "https://git.sbis.ru/root/sbis3-retail/blob/rc-22.1100/www/service/Модули/Retail Online/RetailCore.pagex#L26",
+        "text": "<contentConfig>"
+      },
+      "line_35": {
+        "path": "https://git.sbis.ru/root/sbis3-retail/blob/rc-22.1100/www/service/Модули/Retail Online/RetailCore.pagex#L35",
+        "text": "<contentConfig>"
+      }
+    },
+    "Configuration.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/root/sbis3-retail/blob/rc-22.1100/www/service/Модули/Retail Online/Configuration.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_29": {
+        "path": "https://git.sbis.ru/root/sbis3-retail/blob/rc-22.1100/www/service/Модули/Retail Online/Configuration.pagex#L29",
+        "text": "<contentConfig>"
+      },
+      "line_53": {
+        "path": "https://git.sbis.ru/root/sbis3-retail/blob/rc-22.1100/www/service/Модули/Retail Online/Configuration.pagex#L53",
+        "text": "<contentConfig>"
+      },
+      "line_87": {
+        "path": "https://git.sbis.ru/root/sbis3-retail/blob/rc-22.1100/www/service/Модули/Retail Online/Configuration.pagex#L87",
+        "text": "<contentConfig>"
+      }
+    },
+    "OFD.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/root/sbis3-retail/blob/rc-22.1100/www/service/Модули/Retail Online/OFD.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_64": {
+        "path": "https://git.sbis.ru/root/sbis3-retail/blob/rc-22.1100/www/service/Модули/Retail Online/OFD.pagex#L64",
+        "text": "<contentConfig>"
+      }
+    },
+    "ConfigurationSP.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/root/sbis3-retail/blob/rc-22.1100/www/service/Модули/Retail Online/ConfigurationSP.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_34": {
+        "path": "https://git.sbis.ru/root/sbis3-retail/blob/rc-22.1100/www/service/Модули/Retail Online/ConfigurationSP.pagex#L34",
+        "text": "<contentConfig>"
+      },
+      "line_63": {
+        "path": "https://git.sbis.ru/root/sbis3-retail/blob/rc-22.1100/www/service/Модули/Retail Online/ConfigurationSP.pagex#L63",
+        "text": "<contentConfig>"
+      }
+    },
+    "Orders.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/root/sbis3-retail/blob/rc-22.1100/www/service/Модули/Retail Online/Orders.pagex#L7",
+        "text": "<contentConfig>"
+      },
+      "line_53": {
+        "path": "https://git.sbis.ru/root/sbis3-retail/blob/rc-22.1100/www/service/Модули/Retail Online/Orders.pagex#L53",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/root/sbis3-tender": {
+    "count": 25,
+    "TenderSabyTrade.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/modules/TenderSabyTrade/TenderSabyTrade.pagex#L7",
+        "text": "<contentConfig>"
+      },
+      "line_38": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/modules/TenderSabyTrade/TenderSabyTrade.pagex#L38",
+        "text": "<contentConfig>"
+      },
+      "line_70": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/modules/TenderSabyTrade/TenderSabyTrade.pagex#L70",
+        "text": "<contentConfig>"
+      },
+      "line_102": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/modules/TenderSabyTrade/TenderSabyTrade.pagex#L102",
+        "text": "<contentConfig>"
+      },
+      "line_135": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/modules/TenderSabyTrade/TenderSabyTrade.pagex#L135",
+        "text": "<contentConfig>"
+      },
+      "line_168": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/modules/TenderSabyTrade/TenderSabyTrade.pagex#L168",
+        "text": "<contentConfig>"
+      },
+      "line_201": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/modules/TenderSabyTrade/TenderSabyTrade.pagex#L201",
+        "text": "<contentConfig>"
+      }
+    },
+    "Торги.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/modules/ProtocolAdmin/Торги.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_17": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/modules/ProtocolAdmin/Торги.pagex#L17",
+        "text": "<contentConfig>"
+      }
+    },
+    "Торги.pagex (1)": {
+      "line_4": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/www/service/Торги/Торги.pagex#L4",
+        "text": "<contentConfig>"
+      },
+      "line_23": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/www/service/Торги/Торги.pagex#L23",
+        "text": "<contentConfig>"
+      },
+      "line_45": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/www/service/Торги/Торги.pagex#L45",
+        "text": "<contentConfig>"
+      },
+      "line_66": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/www/service/Торги/Торги.pagex#L66",
+        "text": "<contentConfig>"
+      },
+      "line_101": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/www/service/Торги/Торги.pagex#L101",
+        "text": "<contentConfig>"
+      },
+      "line_145": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/www/service/Торги/Торги.pagex#L145",
+        "text": "<contentConfig>"
+      },
+      "line_167": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/www/service/Торги/Торги.pagex#L167",
+        "text": "<contentConfig>"
+      },
+      "line_194": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/www/service/Торги/Торги.pagex#L194",
+        "text": "<contentConfig>"
+      },
+      "line_238": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/www/service/Торги/Торги.pagex#L238",
+        "text": "<contentConfig>"
+      },
+      "line_289": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/www/service/Торги/Торги.pagex#L289",
+        "text": "<contentConfig>"
+      },
+      "line_355": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/www/service/Торги/Торги.pagex#L355",
+        "text": "<contentConfig>"
+      },
+      "line_421": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/www/service/Торги/Торги.pagex#L421",
+        "text": "<contentConfig>"
+      },
+      "line_443": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/www/service/Торги/Торги.pagex#L443",
+        "text": "<contentConfig>"
+      },
+      "line_465": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/www/service/Торги/Торги.pagex#L465",
+        "text": "<contentConfig>"
+      },
+      "line_492": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/www/service/Торги/Торги.pagex#L492",
+        "text": "<contentConfig>"
+      },
+      "line_513": {
+        "path": "https://git.sbis.ru/root/sbis3-tender/blob/rc-22.1100/www/service/Торги/Торги.pagex#L513",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/sabytrade/website": {
+    "count": 11,
+    "SabyTrade.pagex": {
+      "line_8": {
+        "path": "https://git.sbis.ru/sabytrade/website/blob/rc-22.1100/www/service/SabyTrade/SabyTrade.pagex#L8",
+        "text": "<contentConfig>"
+      },
+      "line_114": {
+        "path": "https://git.sbis.ru/sabytrade/website/blob/rc-22.1100/www/service/SabyTrade/SabyTrade.pagex#L114",
+        "text": "<contentConfig>"
+      },
+      "line_154": {
+        "path": "https://git.sbis.ru/sabytrade/website/blob/rc-22.1100/www/service/SabyTrade/SabyTrade.pagex#L154",
+        "text": "<contentConfig>"
+      },
+      "line_183": {
+        "path": "https://git.sbis.ru/sabytrade/website/blob/rc-22.1100/www/service/SabyTrade/SabyTrade.pagex#L183",
+        "text": "<contentConfig>"
+      }
+    },
+    "SabyTradeCompanies.pagex": {
+      "line_5": {
+        "path": "https://git.sbis.ru/sabytrade/website/blob/rc-22.1100/www/service/SabyTradeCompanies/SabyTradeCompanies.pagex#L5",
+        "text": "<contentConfig>"
+      },
+      "line_47": {
+        "path": "https://git.sbis.ru/sabytrade/website/blob/rc-22.1100/www/service/SabyTradeCompanies/SabyTradeCompanies.pagex#L47",
+        "text": "<contentConfig>"
+      },
+      "line_87": {
+        "path": "https://git.sbis.ru/sabytrade/website/blob/rc-22.1100/www/service/SabyTradeCompanies/SabyTradeCompanies.pagex#L87",
+        "text": "<contentConfig>"
+      },
+      "line_127": {
+        "path": "https://git.sbis.ru/sabytrade/website/blob/rc-22.1100/www/service/SabyTradeCompanies/SabyTradeCompanies.pagex#L127",
+        "text": "<contentConfig>"
+      },
+      "line_167": {
+        "path": "https://git.sbis.ru/sabytrade/website/blob/rc-22.1100/www/service/SabyTradeCompanies/SabyTradeCompanies.pagex#L167",
+        "text": "<contentConfig>"
+      },
+      "line_208": {
+        "path": "https://git.sbis.ru/sabytrade/website/blob/rc-22.1100/www/service/SabyTradeCompanies/SabyTradeCompanies.pagex#L208",
+        "text": "<contentConfig>"
+      },
+      "line_249": {
+        "path": "https://git.sbis.ru/sabytrade/website/blob/rc-22.1100/www/service/SabyTradeCompanies/SabyTradeCompanies.pagex#L249",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/reclamations/feedback": {
+    "count": 4,
+    "FeedbackCollectionAdmin.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/reclamations/feedback/blob/rc-22.1100/service-modules/FeedbackCollectionAdmin/FeedbackCollectionAdmin.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_34": {
+        "path": "https://git.sbis.ru/reclamations/feedback/blob/rc-22.1100/service-modules/FeedbackCollectionAdmin/FeedbackCollectionAdmin.pagex#L34",
+        "text": "<contentConfig>"
+      },
+      "line_65": {
+        "path": "https://git.sbis.ru/reclamations/feedback/blob/rc-22.1100/service-modules/FeedbackCollectionAdmin/FeedbackCollectionAdmin.pagex#L65",
+        "text": "<contentConfig>"
+      },
+      "line_97": {
+        "path": "https://git.sbis.ru/reclamations/feedback/blob/rc-22.1100/service-modules/FeedbackCollectionAdmin/FeedbackCollectionAdmin.pagex#L97",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/field-managment/service-work": {
+    "count": 1,
+    "ServiceWork.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/field-managment/service-work/blob/rc-22.1100/service/ServiceWork/ServiceWork.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/sbis/access-control": {
+    "count": 19,
+    "Applications.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/Applications/Applications.pagex#L9",
+        "text": "<contentConfig>"
+      }
+    },
+    "ActionsRegistry.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/History Online/ActionsRegistry.pagex#L9",
+        "text": "<contentConfig>"
+      }
+    },
+    "StaffActionsRegistry.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/History Online/StaffActionsRegistry.pagex#L7",
+        "text": "<contentConfig>"
+      },
+      "line_31": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/History Online/StaffActionsRegistry.pagex#L31",
+        "text": "<contentConfig>"
+      }
+    },
+    "IntegrationSettings.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/IntegrationSettings/IntegrationSettings.pagex#L9",
+        "text": "<contentConfig>"
+      }
+    },
+    "SecuritySettings_Navigation.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/SecurityPoliciesManagement/SecuritySettings_Navigation.pagex#L9",
+        "text": "<contentConfig>"
+      },
+      "line_44": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/SecurityPoliciesManagement/SecuritySettings_Navigation.pagex#L44",
+        "text": "<contentConfig>"
+      }
+    },
+    "WhoActive.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/Доверенные устройства/WhoActive.pagex#L9",
+        "text": "<contentConfig>"
+      }
+    },
+    "SuspiciousActivity.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/Доверенные устройства/SuspiciousActivity.pagex#L9",
+        "text": "<contentConfig>"
+      }
+    },
+    "AccessRequests.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/Доверенные устройства/AccessRequests.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "LdapClient.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/Доверенные устройства/LdapClient.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "ProfileAccess.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/Доверенные устройства/ProfileAccess.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_26": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/Доверенные устройства/ProfileAccess.pagex#L26",
+        "text": "<contentConfig>"
+      },
+      "line_46": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/Доверенные устройства/ProfileAccess.pagex#L46",
+        "text": "<contentConfig>"
+      }
+    },
+    "TrustedNetworks.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/Доверенные устройства/TrustedNetworks.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "DemoApp.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/DemoApp/DemoApp.pagex#L9",
+        "text": "<contentConfig>"
+      },
+      "line_41": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/DemoApp/DemoApp.pagex#L41",
+        "text": "<contentConfig>"
+      },
+      "line_71": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/DemoApp/DemoApp.pagex#L71",
+        "text": "<contentConfig>"
+      }
+    },
+    "RedButtonBuh.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/sbis/access-control/blob/rc-22.1100/www/service/Модули/RedButtonBuh/RedButtonBuh.pagex#L9",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/sbis/cloud": {
+    "count": 9,
+    "Mistakes Control.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/sbis/cloud/blob/rc-22.1100/www/service/modules/Mistakes Control/Mistakes Control.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_18": {
+        "path": "https://git.sbis.ru/sbis/cloud/blob/rc-22.1100/www/service/modules/Mistakes Control/Mistakes Control.pagex#L18",
+        "text": "<contentConfig>"
+      },
+      "line_46": {
+        "path": "https://git.sbis.ru/sbis/cloud/blob/rc-22.1100/www/service/modules/Mistakes Control/Mistakes Control.pagex#L46",
+        "text": "<contentConfig>"
+      },
+      "line_58": {
+        "path": "https://git.sbis.ru/sbis/cloud/blob/rc-22.1100/www/service/modules/Mistakes Control/Mistakes Control.pagex#L58",
+        "text": "<contentConfig>"
+      },
+      "line_70": {
+        "path": "https://git.sbis.ru/sbis/cloud/blob/rc-22.1100/www/service/modules/Mistakes Control/Mistakes Control.pagex#L70",
+        "text": "<contentConfig>"
+      },
+      "line_82": {
+        "path": "https://git.sbis.ru/sbis/cloud/blob/rc-22.1100/www/service/modules/Mistakes Control/Mistakes Control.pagex#L82",
+        "text": "<contentConfig>"
+      },
+      "line_94": {
+        "path": "https://git.sbis.ru/sbis/cloud/blob/rc-22.1100/www/service/modules/Mistakes Control/Mistakes Control.pagex#L94",
+        "text": "<contentConfig>"
+      },
+      "line_106": {
+        "path": "https://git.sbis.ru/sbis/cloud/blob/rc-22.1100/www/service/modules/Mistakes Control/Mistakes Control.pagex#L106",
+        "text": "<contentConfig>"
+      },
+      "line_118": {
+        "path": "https://git.sbis.ru/sbis/cloud/blob/rc-22.1100/www/service/modules/Mistakes Control/Mistakes Control.pagex#L118",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/eo/inspector": {
+    "count": 2,
+    "InspectorTasks.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/eo/inspector/blob/rc-22.1100/www/service/Модули/InspectorTasks/InspectorTasks.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "InspectorTotals.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/eo/inspector/blob/rc-22.1100/www/service/Модули/InspectorTotals/InspectorTotals.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/sbis/component-market": {
+    "count": 2,
+    "App-market.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/sbis/component-market/blob/rc-22.1100/www/service/modules/App-market api/App-market.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_57": {
+        "path": "https://git.sbis.ru/sbis/component-market/blob/rc-22.1100/www/service/modules/App-market api/App-market.pagex#L57",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/sbis/middleware": {
+    "count": 2,
+    "Logreceiver.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/sbis/middleware/blob/rc-22.1100/www/service/Модули/Logreceiver/Logreceiver.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "MD_Admin.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/sbis/middleware/blob/rc-22.1100/www/service/Модули/MD Admin/MD_Admin.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/sbis/service-engine": {
+    "count": 1,
+    "LongRequests.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/sbis/service-engine/blob/rc-22.1100/www/service/Модули/LongRequests/LongRequests.pagex#L9",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/mail/mail-ui": {
+    "count": 4,
+    "PostalSystem.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/mail/mail-ui/blob/rc-22.1100/www/service/PostalSystem/PostalSystem.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_50": {
+        "path": "https://git.sbis.ru/mail/mail-ui/blob/rc-22.1100/www/service/PostalSystem/PostalSystem.pagex#L50",
+        "text": "<contentConfig>"
+      },
+      "line_106": {
+        "path": "https://git.sbis.ru/mail/mail-ui/blob/rc-22.1100/www/service/PostalSystem/PostalSystem.pagex#L106",
+        "text": "<contentConfig>"
+      },
+      "line_131": {
+        "path": "https://git.sbis.ru/mail/mail-ui/blob/rc-22.1100/www/service/PostalSystem/PostalSystem.pagex#L131",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/sabyget/core": {
+    "count": 26,
+    "SabyGetBusiness.pagex": {
+      "line_5": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetBusiness/SabyGetBusiness.pagex#L5",
+        "text": "<contentConfig>"
+      },
+      "line_21": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetBusiness/SabyGetBusiness.pagex#L21",
+        "text": "<contentConfig>"
+      },
+      "line_86": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetBusiness/SabyGetBusiness.pagex#L86",
+        "text": "<contentConfig>"
+      },
+      "line_152": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetBusiness/SabyGetBusiness.pagex#L152",
+        "text": "<contentConfig>"
+      }
+    },
+    "sabyget.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_51": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L51",
+        "text": "<contentConfig>"
+      },
+      "line_96": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L96",
+        "text": "<contentConfig>"
+      },
+      "line_125": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L125",
+        "text": "<contentConfig>"
+      },
+      "line_167": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L167",
+        "text": "<contentConfig>"
+      },
+      "line_209": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L209",
+        "text": "<contentConfig>"
+      },
+      "line_234": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L234",
+        "text": "<contentConfig>"
+      },
+      "line_277": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L277",
+        "text": "<contentConfig>"
+      },
+      "line_320": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L320",
+        "text": "<contentConfig>"
+      },
+      "line_354": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L354",
+        "text": "<contentConfig>"
+      },
+      "line_396": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L396",
+        "text": "<contentConfig>"
+      },
+      "line_431": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L431",
+        "text": "<contentConfig>"
+      },
+      "line_468": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L468",
+        "text": "<contentConfig>"
+      },
+      "line_507": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L507",
+        "text": "<contentConfig>"
+      },
+      "line_551": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L551",
+        "text": "<contentConfig>"
+      },
+      "line_596": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L596",
+        "text": "<contentConfig>"
+      },
+      "line_641": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L641",
+        "text": "<contentConfig>"
+      },
+      "line_678": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L678",
+        "text": "<contentConfig>"
+      },
+      "line_714": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L714",
+        "text": "<contentConfig>"
+      },
+      "line_753": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L753",
+        "text": "<contentConfig>"
+      },
+      "line_791": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L791",
+        "text": "<contentConfig>"
+      },
+      "line_835": {
+        "path": "https://git.sbis.ru/sabyget/core/blob/rc-22.1100/www/service/SabyGetSite/sabyget.pagex#L835",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/sites/sitemap": {
+    "count": 2,
+    "sitemap.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/sites/sitemap/blob/rc-22.1100/www/service/Модули/Sitemap/sitemap.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_42": {
+        "path": "https://git.sbis.ru/sites/sitemap/blob/rc-22.1100/www/service/Модули/Sitemap/sitemap.pagex#L42",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/sms/sms-service": {
+    "count": 36,
+    "smsc_service_navigation.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L7",
+        "text": "<contentConfig>"
+      },
+      "line_44": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L44",
+        "text": "<contentConfig>"
+      },
+      "line_80": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L80",
+        "text": "<contentConfig>"
+      },
+      "line_95": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L95",
+        "text": "<contentConfig>"
+      },
+      "line_150": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L150",
+        "text": "<contentConfig>"
+      },
+      "line_204": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L204",
+        "text": "<contentConfig>"
+      },
+      "line_251": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L251",
+        "text": "<contentConfig>"
+      },
+      "line_297": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L297",
+        "text": "<contentConfig>"
+      },
+      "line_348": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L348",
+        "text": "<contentConfig>"
+      },
+      "line_384": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L384",
+        "text": "<contentConfig>"
+      },
+      "line_420": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L420",
+        "text": "<contentConfig>"
+      },
+      "line_458": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L458",
+        "text": "<contentConfig>"
+      },
+      "line_473": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L473",
+        "text": "<contentConfig>"
+      },
+      "line_527": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L527",
+        "text": "<contentConfig>"
+      },
+      "line_581": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L581",
+        "text": "<contentConfig>"
+      },
+      "line_628": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L628",
+        "text": "<contentConfig>"
+      },
+      "line_665": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L665",
+        "text": "<contentConfig>"
+      },
+      "line_706": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L706",
+        "text": "<contentConfig>"
+      },
+      "line_747": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L747",
+        "text": "<contentConfig>"
+      },
+      "line_788": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L788",
+        "text": "<contentConfig>"
+      },
+      "line_822": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L822",
+        "text": "<contentConfig>"
+      },
+      "line_845": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L845",
+        "text": "<contentConfig>"
+      },
+      "line_881": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation.pagex#L881",
+        "text": "<contentConfig>"
+      }
+    },
+    "smsc_service_navigation_saby.pagex": {
+      "line_4": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation_saby.pagex#L4",
+        "text": "<contentConfig>"
+      },
+      "line_58": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation_saby.pagex#L58",
+        "text": "<contentConfig>"
+      },
+      "line_112": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation_saby.pagex#L112",
+        "text": "<contentConfig>"
+      },
+      "line_160": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation_saby.pagex#L160",
+        "text": "<contentConfig>"
+      },
+      "line_206": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation_saby.pagex#L206",
+        "text": "<contentConfig>"
+      },
+      "line_257": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation_saby.pagex#L257",
+        "text": "<contentConfig>"
+      },
+      "line_293": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation_saby.pagex#L293",
+        "text": "<contentConfig>"
+      },
+      "line_329": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation_saby.pagex#L329",
+        "text": "<contentConfig>"
+      },
+      "line_367": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation_saby.pagex#L367",
+        "text": "<contentConfig>"
+      },
+      "line_421": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation_saby.pagex#L421",
+        "text": "<contentConfig>"
+      },
+      "line_475": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation_saby.pagex#L475",
+        "text": "<contentConfig>"
+      },
+      "line_522": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation_saby.pagex#L522",
+        "text": "<contentConfig>"
+      },
+      "line_559": {
+        "path": "https://git.sbis.ru/sms/sms-service/blob/rc-22.1100/www/service/modules/SmsServiceProxy/smsc_service_navigation_saby.pagex#L559",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/socnet/news": {
+    "count": 2,
+    "News.pagex": {
+      "line_5": {
+        "path": "https://git.sbis.ru/socnet/news/blob/rc-22.1100/www/service/Модули/News/News.pagex#L5",
+        "text": "<contentConfig>"
+      }
+    },
+    "NewsMyBusiness.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/socnet/news/blob/rc-22.1100/www/service/Модули/NewsMyBusiness/NewsMyBusiness.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/socnet/socnet": {
+    "count": 24,
+    "Социальная сеть inside.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Социальная сеть inside/Социальная сеть inside.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_42": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Социальная сеть inside/Социальная сеть inside.pagex#L42",
+        "text": "<contentConfig>"
+      },
+      "line_96": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Социальная сеть inside/Социальная сеть inside.pagex#L96",
+        "text": "<contentConfig>"
+      },
+      "line_150": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Социальная сеть inside/Социальная сеть inside.pagex#L150",
+        "text": "<contentConfig>"
+      },
+      "line_173": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Социальная сеть inside/Социальная сеть inside.pagex#L173",
+        "text": "<contentConfig>"
+      },
+      "line_211": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Социальная сеть inside/Социальная сеть inside.pagex#L211",
+        "text": "<contentConfig>"
+      },
+      "line_335": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Социальная сеть inside/Социальная сеть inside.pagex#L335",
+        "text": "<contentConfig>"
+      },
+      "line_431": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Социальная сеть inside/Социальная сеть inside.pagex#L431",
+        "text": "<contentConfig>"
+      },
+      "line_639": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Социальная сеть inside/Социальная сеть inside.pagex#L639",
+        "text": "<contentConfig>"
+      },
+      "line_806": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Социальная сеть inside/Социальная сеть inside.pagex#L806",
+        "text": "<contentConfig>"
+      },
+      "line_844": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Социальная сеть inside/Социальная сеть inside.pagex#L844",
+        "text": "<contentConfig>"
+      },
+      "line_869": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Социальная сеть inside/Социальная сеть inside.pagex#L869",
+        "text": "<contentConfig>"
+      },
+      "line_896": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Социальная сеть inside/Социальная сеть inside.pagex#L896",
+        "text": "<contentConfig>"
+      },
+      "line_917": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Социальная сеть inside/Социальная сеть inside.pagex#L917",
+        "text": "<contentConfig>"
+      }
+    },
+    "Education Online Ext.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Education Online Ext/Education Online Ext.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "Education Online MyBusiness.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Education Online MyBusiness/Education Online MyBusiness.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_97": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Education Online MyBusiness/Education Online MyBusiness.pagex#L97",
+        "text": "<contentConfig>"
+      },
+      "line_199": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Education Online MyBusiness/Education Online MyBusiness.pagex#L199",
+        "text": "<contentConfig>"
+      },
+      "line_254": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Education Online MyBusiness/Education Online MyBusiness.pagex#L254",
+        "text": "<contentConfig>"
+      },
+      "line_312": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Education Online MyBusiness/Education Online MyBusiness.pagex#L312",
+        "text": "<contentConfig>"
+      },
       "line_362": {
-        "path": "https://git.sbis.ru/buh/salary/blob/rc-21.6100/service/Зарплата и кадры/Salary.pagex#L362",
-        "text": "\"highlightContentArea\": true,"
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Education Online MyBusiness/Education Online MyBusiness.pagex#L362",
+        "text": "<contentConfig>"
       },
-      "line_505": {
-        "path": "https://git.sbis.ru/buh/salary/blob/rc-21.6100/service/Зарплата и кадры/Salary.pagex#L505",
-        "text": "\"highlightContentArea\": true,"
+      "line_408": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Education Online MyBusiness/Education Online MyBusiness.pagex#L408",
+        "text": "<contentConfig>"
       },
-      "line_1017": {
-        "path": "https://git.sbis.ru/buh/salary/blob/rc-21.6100/service/Зарплата и кадры/Salary.pagex#L1017",
-        "text": "\"highlightContentArea\": true,"
+      "line_460": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Education Online MyBusiness/Education Online MyBusiness.pagex#L460",
+        "text": "<contentConfig>"
+      },
+      "line_549": {
+        "path": "https://git.sbis.ru/socnet/socnet/blob/rc-22.1100/socnet/service/Модули/Education Online MyBusiness/Education Online MyBusiness.pagex#L549",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/socnet/socnet-aggregation": {
+    "count": 2,
+    "SocNetAggregation.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/socnet/socnet-aggregation/blob/rc-22.1100/www/service/modules/SocnetAggregatorProxy/SocNetAggregation.pagex#L9",
+        "text": "<contentConfig>"
+      },
+      "line_32": {
+        "path": "https://git.sbis.ru/socnet/socnet-aggregation/blob/rc-22.1100/www/service/modules/SocnetAggregatorProxy/SocNetAggregation.pagex#L32",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/staff/cadres": {
+    "count": 4,
+    "Cadres.pagex": {
+      "line_8": {
+        "path": "https://git.sbis.ru/staff/cadres/blob/rc-22.1100/service/Cadres/Cadres.pagex#L8",
+        "text": "<contentConfig>"
+      },
+      "line_80": {
+        "path": "https://git.sbis.ru/staff/cadres/blob/rc-22.1100/service/Cadres/Cadres.pagex#L80",
+        "text": "<contentConfig>"
+      },
+      "line_128": {
+        "path": "https://git.sbis.ru/staff/cadres/blob/rc-22.1100/service/Cadres/Cadres.pagex#L128",
+        "text": "<contentConfig>"
+      }
+    },
+    "SalaryStart.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/staff/cadres/blob/rc-22.1100/service/SalaryStart/SalaryStart.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/staff/motivation": {
+    "count": 10,
+    "KPI.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/staff/motivation/blob/rc-22.1100/service/KPI/KPI.pagex#L7",
+        "text": "<contentConfig>"
+      },
+      "line_99": {
+        "path": "https://git.sbis.ru/staff/motivation/blob/rc-22.1100/service/KPI/KPI.pagex#L99",
+        "text": "<contentConfig>"
+      },
+      "line_177": {
+        "path": "https://git.sbis.ru/staff/motivation/blob/rc-22.1100/service/KPI/KPI.pagex#L177",
+        "text": "<contentConfig>"
+      },
+      "line_377": {
+        "path": "https://git.sbis.ru/staff/motivation/blob/rc-22.1100/service/KPI/KPI.pagex#L377",
+        "text": "<contentConfig>"
+      },
+      "line_545": {
+        "path": "https://git.sbis.ru/staff/motivation/blob/rc-22.1100/service/KPI/KPI.pagex#L545",
+        "text": "<contentConfig>"
+      },
+      "line_676": {
+        "path": "https://git.sbis.ru/staff/motivation/blob/rc-22.1100/service/KPI/KPI.pagex#L676",
+        "text": "<contentConfig>"
+      },
+      "line_813": {
+        "path": "https://git.sbis.ru/staff/motivation/blob/rc-22.1100/service/KPI/KPI.pagex#L813",
+        "text": "<contentConfig>"
+      },
+      "line_932": {
+        "path": "https://git.sbis.ru/staff/motivation/blob/rc-22.1100/service/KPI/KPI.pagex#L932",
+        "text": "<contentConfig>"
+      }
+    },
+    "VirtualShop.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/staff/motivation/blob/rc-22.1100/service/VirtualShop/VirtualShop.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "StaffSkills.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/staff/motivation/blob/rc-22.1100/service/StaffSkills/StaffSkills.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/staff/staff": {
+    "count": 10,
+    "SettingsUsers.pagex": {
+      "line_8": {
+        "path": "https://git.sbis.ru/staff/staff/blob/rc-22.1100/service/Staff/SettingsUsers.pagex#L8",
+        "text": "<contentConfig>"
+      }
+    },
+    "Staff.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/staff/staff/blob/rc-22.1100/service/Staff/Staff.pagex#L9",
+        "text": "<contentConfig>"
+      },
+      "line_115": {
+        "path": "https://git.sbis.ru/staff/staff/blob/rc-22.1100/service/Staff/Staff.pagex#L115",
+        "text": "<contentConfig>"
+      },
+      "line_148": {
+        "path": "https://git.sbis.ru/staff/staff/blob/rc-22.1100/service/Staff/Staff.pagex#L148",
+        "text": "<contentConfig>"
+      },
+      "line_195": {
+        "path": "https://git.sbis.ru/staff/staff/blob/rc-22.1100/service/Staff/Staff.pagex#L195",
+        "text": "<contentConfig>"
+      }
+    },
+    "SettingsRolesUsers.pagex": {
+      "line_10": {
+        "path": "https://git.sbis.ru/staff/staff/blob/rc-22.1100/service/Staff/SettingsRolesUsers.pagex#L10",
+        "text": "<contentConfig>"
+      }
+    },
+    "Сотрудники.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/staff/staff/blob/rc-22.1100/service/Сотрудники/Сотрудники.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_29": {
+        "path": "https://git.sbis.ru/staff/staff/blob/rc-22.1100/service/Сотрудники/Сотрудники.pagex#L29",
+        "text": "<contentConfig>"
+      },
+      "line_47": {
+        "path": "https://git.sbis.ru/staff/staff/blob/rc-22.1100/service/Сотрудники/Сотрудники.pagex#L47",
+        "text": "<contentConfig>"
+      },
+      "line_76": {
+        "path": "https://git.sbis.ru/staff/staff/blob/rc-22.1100/service/Сотрудники/Сотрудники.pagex#L76",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/usermngt/personal-office": {
+    "count": 5,
+    "my.sbis.ru.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/usermngt/personal-office/blob/rc-22.1100/www/service/Модули/Личный аккаунт/my.sbis.ru.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_32": {
+        "path": "https://git.sbis.ru/usermngt/personal-office/blob/rc-22.1100/www/service/Модули/Личный аккаунт/my.sbis.ru.pagex#L32",
+        "text": "<contentConfig>"
+      },
+      "line_61": {
+        "path": "https://git.sbis.ru/usermngt/personal-office/blob/rc-22.1100/www/service/Модули/Личный аккаунт/my.sbis.ru.pagex#L61",
+        "text": "<contentConfig>"
+      },
+      "line_83": {
+        "path": "https://git.sbis.ru/usermngt/personal-office/blob/rc-22.1100/www/service/Модули/Личный аккаунт/my.sbis.ru.pagex#L83",
+        "text": "<contentConfig>"
+      },
+      "line_94": {
+        "path": "https://git.sbis.ru/usermngt/personal-office/blob/rc-22.1100/www/service/Модули/Личный аккаунт/my.sbis.ru.pagex#L94",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/meetings/meetings": {
+    "count": 3,
+    "Совещания.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/meetings/meetings/blob/rc-22.1100/www/service/Модули/Совещания/Совещания.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_29": {
+        "path": "https://git.sbis.ru/meetings/meetings/blob/rc-22.1100/www/service/Модули/Совещания/Совещания.pagex#L29",
+        "text": "<contentConfig>"
+      },
+      "line_51": {
+        "path": "https://git.sbis.ru/meetings/meetings/blob/rc-22.1100/www/service/Модули/Совещания/Совещания.pagex#L51",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/warehouse/docs": {
+    "count": 32,
+    "Складской учет.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L9",
+        "text": "<contentConfig>"
+      },
+      "line_269": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L269",
+        "text": "<contentConfig>"
+      },
+      "line_791": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L791",
+        "text": "<contentConfig>"
+      },
+      "line_927": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L927",
+        "text": "<contentConfig>"
+      },
+      "line_1049": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L1049",
+        "text": "<contentConfig>"
+      },
+      "line_1193": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L1193",
+        "text": "<contentConfig>"
+      },
+      "line_1339": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L1339",
+        "text": "<contentConfig>"
+      },
+      "line_1483": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L1483",
+        "text": "<contentConfig>"
+      },
+      "line_1608": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L1608",
+        "text": "<contentConfig>"
+      },
+      "line_1735": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L1735",
+        "text": "<contentConfig>"
+      },
+      "line_2103": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L2103",
+        "text": "<contentConfig>"
+      },
+      "line_2369": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L2369",
+        "text": "<contentConfig>"
+      },
+      "line_2475": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L2475",
+        "text": "<contentConfig>"
+      },
+      "line_2493": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L2493",
+        "text": "<contentConfig>"
+      },
+      "line_2558": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L2558",
+        "text": "<contentConfig>"
+      },
+      "line_2790": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L2790",
+        "text": "<contentConfig>"
+      },
+      "line_2845": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L2845",
+        "text": "<contentConfig>"
+      },
+      "line_2900": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L2900",
+        "text": "<contentConfig>"
+      },
+      "line_3225": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L3225",
+        "text": "<contentConfig>"
+      },
+      "line_3445": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L3445",
+        "text": "<contentConfig>"
+      },
+      "line_3828": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L3828",
+        "text": "<contentConfig>"
+      },
+      "line_4113": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L4113",
+        "text": "<contentConfig>"
+      },
+      "line_4253": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L4253",
+        "text": "<contentConfig>"
+      },
+      "line_4383": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L4383",
+        "text": "<contentConfig>"
+      },
+      "line_4429": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L4429",
+        "text": "<contentConfig>"
+      },
+      "line_4568": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L4568",
+        "text": "<contentConfig>"
+      },
+      "line_4713": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L4713",
+        "text": "<contentConfig>"
+      },
+      "line_4729": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L4729",
+        "text": "<contentConfig>"
+      },
+      "line_5097": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L5097",
+        "text": "<contentConfig>"
+      },
+      "line_5233": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L5233",
+        "text": "<contentConfig>"
+      },
+      "line_5436": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L5436",
+        "text": "<contentConfig>"
+      },
+      "line_5692": {
+        "path": "https://git.sbis.ru/warehouse/docs/blob/rc-22.1100/www/service/Модули/Складской учет/Складской учет.pagex#L5692",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/warehouse/nomenclature": {
+    "count": 12,
+    "Номенклатура.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/warehouse/nomenclature/blob/rc-22.1100/www/service/Модули/NomenclatureCommon/Номенклатура.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_27": {
+        "path": "https://git.sbis.ru/warehouse/nomenclature/blob/rc-22.1100/www/service/Модули/NomenclatureCommon/Номенклатура.pagex#L27",
+        "text": "<contentConfig>"
+      },
+      "line_59": {
+        "path": "https://git.sbis.ru/warehouse/nomenclature/blob/rc-22.1100/www/service/Модули/NomenclatureCommon/Номенклатура.pagex#L59",
+        "text": "<contentConfig>"
+      },
+      "line_98": {
+        "path": "https://git.sbis.ru/warehouse/nomenclature/blob/rc-22.1100/www/service/Модули/NomenclatureCommon/Номенклатура.pagex#L98",
+        "text": "<contentConfig>"
+      },
+      "line_123": {
+        "path": "https://git.sbis.ru/warehouse/nomenclature/blob/rc-22.1100/www/service/Модули/NomenclatureCommon/Номенклатура.pagex#L123",
+        "text": "<contentConfig>"
+      },
+      "line_166": {
+        "path": "https://git.sbis.ru/warehouse/nomenclature/blob/rc-22.1100/www/service/Модули/NomenclatureCommon/Номенклатура.pagex#L166",
+        "text": "<contentConfig>"
+      },
+      "line_257": {
+        "path": "https://git.sbis.ru/warehouse/nomenclature/blob/rc-22.1100/www/service/Модули/NomenclatureCommon/Номенклатура.pagex#L257",
+        "text": "<contentConfig>"
+      },
+      "line_358": {
+        "path": "https://git.sbis.ru/warehouse/nomenclature/blob/rc-22.1100/www/service/Модули/NomenclatureCommon/Номенклатура.pagex#L358",
+        "text": "<contentConfig>"
+      },
+      "line_470": {
+        "path": "https://git.sbis.ru/warehouse/nomenclature/blob/rc-22.1100/www/service/Модули/NomenclatureCommon/Номенклатура.pagex#L470",
+        "text": "<contentConfig>"
+      },
+      "line_538": {
+        "path": "https://git.sbis.ru/warehouse/nomenclature/blob/rc-22.1100/www/service/Модули/NomenclatureCommon/Номенклатура.pagex#L538",
+        "text": "<contentConfig>"
+      },
+      "line_603": {
+        "path": "https://git.sbis.ru/warehouse/nomenclature/blob/rc-22.1100/www/service/Модули/NomenclatureCommon/Номенклатура.pagex#L603",
+        "text": "<contentConfig>"
+      },
+      "line_631": {
+        "path": "https://git.sbis.ru/warehouse/nomenclature/blob/rc-22.1100/www/service/Модули/NomenclatureCommon/Номенклатура.pagex#L631",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/warehouse/price-formation": {
+    "count": 15,
+    "ReferralSystem.pagex": {
+      "line_8": {
+        "path": "https://git.sbis.ru/warehouse/price-formation/blob/rc-22.1100/www/service/Модули/PriceFormation.Online/ReferralSystem.pagex#L8",
+        "text": "<contentConfig>"
+      },
+      "line_80": {
+        "path": "https://git.sbis.ru/warehouse/price-formation/blob/rc-22.1100/www/service/Модули/PriceFormation.Online/ReferralSystem.pagex#L80",
+        "text": "<contentConfig>"
+      },
+      "line_127": {
+        "path": "https://git.sbis.ru/warehouse/price-formation/blob/rc-22.1100/www/service/Модули/PriceFormation.Online/ReferralSystem.pagex#L127",
+        "text": "<contentConfig>"
+      },
+      "line_174": {
+        "path": "https://git.sbis.ru/warehouse/price-formation/blob/rc-22.1100/www/service/Модули/PriceFormation.Online/ReferralSystem.pagex#L174",
+        "text": "<contentConfig>"
+      }
+    },
+    "LoyaltyCard.pagex": {
+      "line_8": {
+        "path": "https://git.sbis.ru/warehouse/price-formation/blob/rc-22.1100/www/service/Модули/PriceFormation.Online/LoyaltyCard.pagex#L8",
+        "text": "<contentConfig>"
+      },
+      "line_54": {
+        "path": "https://git.sbis.ru/warehouse/price-formation/blob/rc-22.1100/www/service/Модули/PriceFormation.Online/LoyaltyCard.pagex#L54",
+        "text": "<contentConfig>"
+      },
+      "line_88": {
+        "path": "https://git.sbis.ru/warehouse/price-formation/blob/rc-22.1100/www/service/Модули/PriceFormation.Online/LoyaltyCard.pagex#L88",
+        "text": "<contentConfig>"
+      },
+      "line_121": {
+        "path": "https://git.sbis.ru/warehouse/price-formation/blob/rc-22.1100/www/service/Модули/PriceFormation.Online/LoyaltyCard.pagex#L121",
+        "text": "<contentConfig>"
+      }
+    },
+    "Banner.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/warehouse/price-formation/blob/rc-22.1100/www/service/Модули/PriceFormation.Online/Banner.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    },
+    "Bonus.pagex": {
+      "line_8": {
+        "path": "https://git.sbis.ru/warehouse/price-formation/blob/rc-22.1100/www/service/Модули/PriceFormation.Online/Bonus.pagex#L8",
+        "text": "<contentConfig>"
+      },
+      "line_113": {
+        "path": "https://git.sbis.ru/warehouse/price-formation/blob/rc-22.1100/www/service/Модули/PriceFormation.Online/Bonus.pagex#L113",
+        "text": "<contentConfig>"
+      },
+      "line_201": {
+        "path": "https://git.sbis.ru/warehouse/price-formation/blob/rc-22.1100/www/service/Модули/PriceFormation.Online/Bonus.pagex#L201",
+        "text": "<contentConfig>"
+      }
+    },
+    "Discount.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/warehouse/price-formation/blob/rc-22.1100/www/service/Модули/PriceFormation.Online/Discount.pagex#L7",
+        "text": "<contentConfig>"
+      }
+    },
+    "PromotionCard.pagex": {
+      "line_9": {
+        "path": "https://git.sbis.ru/warehouse/price-formation/blob/rc-22.1100/www/service/Модули/PriceFormation.Online/PromotionCard.pagex#L9",
+        "text": "<contentConfig>"
+      }
+    },
+    "Promotion.pagex": {
+      "line_8": {
+        "path": "https://git.sbis.ru/warehouse/price-formation/blob/rc-22.1100/www/service/Модули/PriceFormation.Online/Promotion.pagex#L8",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/work-time-mgmt/acs-robot": {
+    "count": 1,
+    "IdentList.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/work-time-mgmt/acs-robot/blob/rc-22.1100/main-service/service/ACS/IdentList.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/work-time-mgmt/autocatalog": {
+    "count": 2,
+    "AutocatalogAdmin.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/work-time-mgmt/autocatalog/blob/rc-22.1100/www/service/Модули/autocatalog/AutocatalogAdmin.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_51": {
+        "path": "https://git.sbis.ru/work-time-mgmt/autocatalog/blob/rc-22.1100/www/service/Модули/autocatalog/AutocatalogAdmin.pagex#L51",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/work-time-mgmt/booking-service": {
+    "count": 9,
+    "SabySalon.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/work-time-mgmt/booking-service/blob/rc-22.1100/www/service/Модули/Booking/SabySalon.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_39": {
+        "path": "https://git.sbis.ru/work-time-mgmt/booking-service/blob/rc-22.1100/www/service/Модули/Booking/SabySalon.pagex#L39",
+        "text": "<contentConfig>"
+      },
+      "line_52": {
+        "path": "https://git.sbis.ru/work-time-mgmt/booking-service/blob/rc-22.1100/www/service/Модули/Booking/SabySalon.pagex#L52",
+        "text": "<contentConfig>"
+      },
+      "line_62": {
+        "path": "https://git.sbis.ru/work-time-mgmt/booking-service/blob/rc-22.1100/www/service/Модули/Booking/SabySalon.pagex#L62",
+        "text": "<contentConfig>"
+      },
+      "line_72": {
+        "path": "https://git.sbis.ru/work-time-mgmt/booking-service/blob/rc-22.1100/www/service/Модули/Booking/SabySalon.pagex#L72",
+        "text": "<contentConfig>"
+      }
+    },
+    "BookingCore.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/work-time-mgmt/booking-service/blob/rc-22.1100/www/service/Модули/BookingCore/BookingCore.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_26": {
+        "path": "https://git.sbis.ru/work-time-mgmt/booking-service/blob/rc-22.1100/www/service/Модули/BookingCore/BookingCore.pagex#L26",
+        "text": "<contentConfig>"
+      }
+    },
+    "BookingCoreSP.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/work-time-mgmt/booking-service/blob/rc-22.1100/www/service/Модули/BookingCore/BookingCoreSP.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_29": {
+        "path": "https://git.sbis.ru/work-time-mgmt/booking-service/blob/rc-22.1100/www/service/Модули/BookingCore/BookingCoreSP.pagex#L29",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/work-time-mgmt/core": {
+    "count": 10,
+    "Rooms.pagex": {
+      "line_8": {
+        "path": "https://git.sbis.ru/work-time-mgmt/core/blob/rc-22.1100/service/Rooms/Rooms.pagex#L8",
+        "text": "<contentConfig>"
+      }
+    },
+    "Управление рабочим временем.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/work-time-mgmt/core/blob/rc-22.1100/service/Управление рабочим временем/Управление рабочим временем.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_28": {
+        "path": "https://git.sbis.ru/work-time-mgmt/core/blob/rc-22.1100/service/Управление рабочим временем/Управление рабочим временем.pagex#L28",
+        "text": "<contentConfig>"
+      },
+      "line_94": {
+        "path": "https://git.sbis.ru/work-time-mgmt/core/blob/rc-22.1100/service/Управление рабочим временем/Управление рабочим временем.pagex#L94",
+        "text": "<contentConfig>"
+      },
+      "line_128": {
+        "path": "https://git.sbis.ru/work-time-mgmt/core/blob/rc-22.1100/service/Управление рабочим временем/Управление рабочим временем.pagex#L128",
+        "text": "<contentConfig>"
+      },
+      "line_263": {
+        "path": "https://git.sbis.ru/work-time-mgmt/core/blob/rc-22.1100/service/Управление рабочим временем/Управление рабочим временем.pagex#L263",
+        "text": "<contentConfig>"
+      },
+      "line_343": {
+        "path": "https://git.sbis.ru/work-time-mgmt/core/blob/rc-22.1100/service/Управление рабочим временем/Управление рабочим временем.pagex#L343",
+        "text": "<contentConfig>"
+      },
+      "line_373": {
+        "path": "https://git.sbis.ru/work-time-mgmt/core/blob/rc-22.1100/service/Управление рабочим временем/Управление рабочим временем.pagex#L373",
+        "text": "<contentConfig>"
+      },
+      "line_415": {
+        "path": "https://git.sbis.ru/work-time-mgmt/core/blob/rc-22.1100/service/Управление рабочим временем/Управление рабочим временем.pagex#L415",
+        "text": "<contentConfig>"
+      }
+    },
+    "Timesheet.pagex": {
+      "line_4": {
+        "path": "https://git.sbis.ru/work-time-mgmt/core/blob/rc-22.1100/service/Timesheet/Timesheet.pagex#L4",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/work-time-mgmt/event-calendar": {
+    "count": 8,
+    "MainUserCalendar.pagex": {
+      "line_8": {
+        "path": "https://git.sbis.ru/work-time-mgmt/event-calendar/blob/rc-22.1100/www/service/Модули/MainUserCalendar/MainUserCalendar.pagex#L8",
+        "text": "<contentConfig>"
+      },
+      "line_66": {
+        "path": "https://git.sbis.ru/work-time-mgmt/event-calendar/blob/rc-22.1100/www/service/Модули/MainUserCalendar/MainUserCalendar.pagex#L66",
+        "text": "<contentConfig>"
+      },
+      "line_124": {
+        "path": "https://git.sbis.ru/work-time-mgmt/event-calendar/blob/rc-22.1100/www/service/Модули/MainUserCalendar/MainUserCalendar.pagex#L124",
+        "text": "<contentConfig>"
+      },
+      "line_182": {
+        "path": "https://git.sbis.ru/work-time-mgmt/event-calendar/blob/rc-22.1100/www/service/Модули/MainUserCalendar/MainUserCalendar.pagex#L182",
+        "text": "<contentConfig>"
+      },
+      "line_236": {
+        "path": "https://git.sbis.ru/work-time-mgmt/event-calendar/blob/rc-22.1100/www/service/Модули/MainUserCalendar/MainUserCalendar.pagex#L236",
+        "text": "<contentConfig>"
+      }
+    },
+    "UserCalendar.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/work-time-mgmt/event-calendar/blob/rc-22.1100/www/service/Модули/UserCalendar/UserCalendar.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_49": {
+        "path": "https://git.sbis.ru/work-time-mgmt/event-calendar/blob/rc-22.1100/www/service/Модули/UserCalendar/UserCalendar.pagex#L49",
+        "text": "<contentConfig>"
+      },
+      "line_92": {
+        "path": "https://git.sbis.ru/work-time-mgmt/event-calendar/blob/rc-22.1100/www/service/Модули/UserCalendar/UserCalendar.pagex#L92",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/work-time-mgmt/geoip": {
+    "count": 2,
+    "GeoIpAdmin.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/work-time-mgmt/geoip/blob/rc-22.1100/modules/GeoIpAdmin/GeoIpAdmin.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_37": {
+        "path": "https://git.sbis.ru/work-time-mgmt/geoip/blob/rc-22.1100/modules/GeoIpAdmin/GeoIpAdmin.pagex#L37",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/work-time-mgmt/works-management": {
+    "count": 16,
+    "WorksManagement.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/work-time-mgmt/works-management/blob/rc-22.1100/service/WorksManagement/WorksManagement.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_69": {
+        "path": "https://git.sbis.ru/work-time-mgmt/works-management/blob/rc-22.1100/service/WorksManagement/WorksManagement.pagex#L69",
+        "text": "<contentConfig>"
+      },
+      "line_105": {
+        "path": "https://git.sbis.ru/work-time-mgmt/works-management/blob/rc-22.1100/service/WorksManagement/WorksManagement.pagex#L105",
+        "text": "<contentConfig>"
+      },
+      "line_183": {
+        "path": "https://git.sbis.ru/work-time-mgmt/works-management/blob/rc-22.1100/service/WorksManagement/WorksManagement.pagex#L183",
+        "text": "<contentConfig>"
+      },
+      "line_270": {
+        "path": "https://git.sbis.ru/work-time-mgmt/works-management/blob/rc-22.1100/service/WorksManagement/WorksManagement.pagex#L270",
+        "text": "<contentConfig>"
+      },
+      "line_355": {
+        "path": "https://git.sbis.ru/work-time-mgmt/works-management/blob/rc-22.1100/service/WorksManagement/WorksManagement.pagex#L355",
+        "text": "<contentConfig>"
+      },
+      "line_390": {
+        "path": "https://git.sbis.ru/work-time-mgmt/works-management/blob/rc-22.1100/service/WorksManagement/WorksManagement.pagex#L390",
+        "text": "<contentConfig>"
+      },
+      "line_454": {
+        "path": "https://git.sbis.ru/work-time-mgmt/works-management/blob/rc-22.1100/service/WorksManagement/WorksManagement.pagex#L454",
+        "text": "<contentConfig>"
+      },
+      "line_485": {
+        "path": "https://git.sbis.ru/work-time-mgmt/works-management/blob/rc-22.1100/service/WorksManagement/WorksManagement.pagex#L485",
+        "text": "<contentConfig>"
+      },
+      "line_512": {
+        "path": "https://git.sbis.ru/work-time-mgmt/works-management/blob/rc-22.1100/service/WorksManagement/WorksManagement.pagex#L512",
+        "text": "<contentConfig>"
+      },
+      "line_590": {
+        "path": "https://git.sbis.ru/work-time-mgmt/works-management/blob/rc-22.1100/service/WorksManagement/WorksManagement.pagex#L590",
+        "text": "<contentConfig>"
+      },
+      "line_643": {
+        "path": "https://git.sbis.ru/work-time-mgmt/works-management/blob/rc-22.1100/service/WorksManagement/WorksManagement.pagex#L643",
+        "text": "<contentConfig>"
+      },
+      "line_697": {
+        "path": "https://git.sbis.ru/work-time-mgmt/works-management/blob/rc-22.1100/service/WorksManagement/WorksManagement.pagex#L697",
+        "text": "<contentConfig>"
+      },
+      "line_751": {
+        "path": "https://git.sbis.ru/work-time-mgmt/works-management/blob/rc-22.1100/service/WorksManagement/WorksManagement.pagex#L751",
+        "text": "<contentConfig>"
+      },
+      "line_802": {
+        "path": "https://git.sbis.ru/work-time-mgmt/works-management/blob/rc-22.1100/service/WorksManagement/WorksManagement.pagex#L802",
+        "text": "<contentConfig>"
+      },
+      "line_826": {
+        "path": "https://git.sbis.ru/work-time-mgmt/works-management/blob/rc-22.1100/service/WorksManagement/WorksManagement.pagex#L826",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/telephony/core": {
+    "count": 32,
+    "PBX_Admin.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_12": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L12",
+        "text": "<contentConfig>"
+      },
+      "line_21": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L21",
+        "text": "<contentConfig>"
+      },
+      "line_30": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L30",
+        "text": "<contentConfig>"
+      },
+      "line_39": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L39",
+        "text": "<contentConfig>"
+      },
+      "line_48": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L48",
+        "text": "<contentConfig>"
+      },
+      "line_57": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L57",
+        "text": "<contentConfig>"
+      },
+      "line_66": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L66",
+        "text": "<contentConfig>"
+      },
+      "line_75": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L75",
+        "text": "<contentConfig>"
+      },
+      "line_84": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L84",
+        "text": "<contentConfig>"
+      },
+      "line_93": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L93",
+        "text": "<contentConfig>"
+      },
+      "line_102": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L102",
+        "text": "<contentConfig>"
+      },
+      "line_114": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L114",
+        "text": "<contentConfig>"
+      },
+      "line_126": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L126",
+        "text": "<contentConfig>"
+      },
+      "line_138": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L138",
+        "text": "<contentConfig>"
+      },
+      "line_150": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L150",
+        "text": "<contentConfig>"
+      },
+      "line_174": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L174",
+        "text": "<contentConfig>"
+      },
+      "line_209": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L209",
+        "text": "<contentConfig>"
+      },
+      "line_261": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L261",
+        "text": "<contentConfig>"
+      },
+      "line_273": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L273",
+        "text": "<contentConfig>"
+      },
+      "line_294": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L294",
+        "text": "<contentConfig>"
+      },
+      "line_334": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L334",
+        "text": "<contentConfig>"
+      },
+      "line_374": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L374",
+        "text": "<contentConfig>"
+      },
+      "line_409": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L409",
+        "text": "<contentConfig>"
+      },
+      "line_439": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/PBX_Admin/PBX_Admin.pagex#L439",
+        "text": "<contentConfig>"
+      }
+    },
+    "Telephony_online.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/Telephony_online/Telephony_online.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_44": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/Telephony_online/Telephony_online.pagex#L44",
+        "text": "<contentConfig>"
+      },
+      "line_85": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/Telephony_online/Telephony_online.pagex#L85",
+        "text": "<contentConfig>"
+      },
+      "line_126": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/Telephony_online/Telephony_online.pagex#L126",
+        "text": "<contentConfig>"
+      },
+      "line_167": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/Telephony_online/Telephony_online.pagex#L167",
+        "text": "<contentConfig>"
+      },
+      "line_208": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/Telephony_online/Telephony_online.pagex#L208",
+        "text": "<contentConfig>"
+      },
+      "line_241": {
+        "path": "https://git.sbis.ru/telephony/core/blob/rc-22.1100/www/Telephony_online/Telephony_online.pagex#L241",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/videoregistration/core": {
+    "count": 5,
+    "VideoregistrationAdmin.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/videoregistration/core/blob/rc-22.1100/www/VideoregistrationAdmin/VideoregistrationAdmin.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_45": {
+        "path": "https://git.sbis.ru/videoregistration/core/blob/rc-22.1100/www/VideoregistrationAdmin/VideoregistrationAdmin.pagex#L45",
+        "text": "<contentConfig>"
+      },
+      "line_82": {
+        "path": "https://git.sbis.ru/videoregistration/core/blob/rc-22.1100/www/VideoregistrationAdmin/VideoregistrationAdmin.pagex#L82",
+        "text": "<contentConfig>"
+      },
+      "line_123": {
+        "path": "https://git.sbis.ru/videoregistration/core/blob/rc-22.1100/www/VideoregistrationAdmin/VideoregistrationAdmin.pagex#L123",
+        "text": "<contentConfig>"
+      },
+      "line_155": {
+        "path": "https://git.sbis.ru/videoregistration/core/blob/rc-22.1100/www/VideoregistrationAdmin/VideoregistrationAdmin.pagex#L155",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/billing/agents": {
+    "count": 4,
+    "AgentContract.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/billing/agents/blob/rc-22.1100/service/AgentContract/AgentContract.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_69": {
+        "path": "https://git.sbis.ru/billing/agents/blob/rc-22.1100/service/AgentContract/AgentContract.pagex#L69",
+        "text": "<contentConfig>"
+      },
+      "line_111": {
+        "path": "https://git.sbis.ru/billing/agents/blob/rc-22.1100/service/AgentContract/AgentContract.pagex#L111",
+        "text": "<contentConfig>"
+      },
+      "line_183": {
+        "path": "https://git.sbis.ru/billing/agents/blob/rc-22.1100/service/AgentContract/AgentContract.pagex#L183",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/eo/separate-divisions": {
+    "count": 4,
+    "RegisterClaims.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/eo/separate-divisions/blob/rc-22.1100/www/service/Модули/Отчетность ФНС/RegisterClaims.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "RegisterION.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/eo/separate-divisions/blob/rc-22.1100/www/service/Модули/Отчетность ФНС/RegisterION.pagex#L6",
+        "text": "<contentConfig>"
+      }
+    },
+    "RegisterRegFns.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/eo/separate-divisions/blob/rc-22.1100/www/service/Модули/Отчетность ФНС/RegisterRegFns.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "RegisterTraceability.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/eo/separate-divisions/blob/rc-22.1100/www/service/Модули/Отчетность ФНС/RegisterTraceability.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/site-development/site-editor": {
+    "count": 3,
+    "SiteEditor.pagex": {
+      "line_5": {
+        "path": "https://git.sbis.ru/site-development/site-editor/blob/rc-22.1100/service/SiteEditor/SiteEditor.pagex#L5",
+        "text": "<contentConfig>"
+      },
+      "line_17": {
+        "path": "https://git.sbis.ru/site-development/site-editor/blob/rc-22.1100/service/SiteEditor/SiteEditor.pagex#L17",
+        "text": "<contentConfig>"
+      }
+    },
+    "SiteEditorOnline.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/site-development/site-editor/blob/rc-22.1100/service/SiteEditorOnline/SiteEditorOnline.pagex#L7",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/sabyget/concierge": {
+    "count": 2,
+    "ConciergeCore.pagex": {
+      "line_4": {
+        "path": "https://git.sbis.ru/sabyget/concierge/blob/rc-22.1100/www/service/ConciergeCore/ConciergeCore.pagex#L4",
+        "text": "<contentConfig>"
+      }
+    },
+    "ConciergeAdmin.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/sabyget/concierge/blob/rc-22.1100/www/service/ConciergeAdmin/ConciergeAdmin.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/eo/employees": {
+    "count": 5,
+    "RegisterMVD.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/eo/employees/blob/rc-22.1100/www/service/Модули/Отчетность МВД/RegisterMVD.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_72": {
+        "path": "https://git.sbis.ru/eo/employees/blob/rc-22.1100/www/service/Модули/Отчетность МВД/RegisterMVD.pagex#L72",
+        "text": "<contentConfig>"
+      },
+      "line_140": {
+        "path": "https://git.sbis.ru/eo/employees/blob/rc-22.1100/www/service/Модули/Отчетность МВД/RegisterMVD.pagex#L140",
+        "text": "<contentConfig>"
+      }
+    },
+    "RegisterOnPension.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/eo/employees/blob/rc-22.1100/www/service/Модули/Отчетность ПФР/RegisterOnPension.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_90": {
+        "path": "https://git.sbis.ru/eo/employees/blob/rc-22.1100/www/service/Модули/Отчетность ПФР/RegisterOnPension.pagex#L90",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/telephony/sale-scripts": {
+    "count": 2,
+    "SaleScripts.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/telephony/sale-scripts/blob/rc-22.1100/SaleScripts/SaleScripts.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_34": {
+        "path": "https://git.sbis.ru/telephony/sale-scripts/blob/rc-22.1100/SaleScripts/SaleScripts.pagex#L34",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/eo/np": {
+    "count": 5,
+    "Аналитический блок.pagex": {
+      "line_6": {
+        "path": "https://git.sbis.ru/eo/np/blob/rc-22.1100/www/service/Модули/Аналитический блок/Аналитический блок.pagex#L6",
+        "text": "<contentConfig>"
+      },
+      "line_34": {
+        "path": "https://git.sbis.ru/eo/np/blob/rc-22.1100/www/service/Модули/Аналитический блок/Аналитический блок.pagex#L34",
+        "text": "<contentConfig>"
+      },
+      "line_49": {
+        "path": "https://git.sbis.ru/eo/np/blob/rc-22.1100/www/service/Модули/Аналитический блок/Аналитический блок.pagex#L49",
+        "text": "<contentConfig>"
+      }
+    },
+    "Налогоплательщик.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/eo/np/blob/rc-22.1100/www/service/Модули/Налогоплательщик/Налогоплательщик.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_27": {
+        "path": "https://git.sbis.ru/eo/np/blob/rc-22.1100/www/service/Модули/Налогоплательщик/Налогоплательщик.pagex#L27",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/eo/ub": {
+    "count": 13,
+    "Reporting UB.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/eo/ub/blob/rc-22.1100/www/service/Модули/Reporting UB/Reporting UB.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_28": {
+        "path": "https://git.sbis.ru/eo/ub/blob/rc-22.1100/www/service/Модули/Reporting UB/Reporting UB.pagex#L28",
+        "text": "<contentConfig>"
+      },
+      "line_53": {
+        "path": "https://git.sbis.ru/eo/ub/blob/rc-22.1100/www/service/Модули/Reporting UB/Reporting UB.pagex#L53",
+        "text": "<contentConfig>"
+      },
+      "line_89": {
+        "path": "https://git.sbis.ru/eo/ub/blob/rc-22.1100/www/service/Модули/Reporting UB/Reporting UB.pagex#L89",
+        "text": "<contentConfig>"
+      },
+      "line_144": {
+        "path": "https://git.sbis.ru/eo/ub/blob/rc-22.1100/www/service/Модули/Reporting UB/Reporting UB.pagex#L144",
+        "text": "<contentConfig>"
+      },
+      "line_180": {
+        "path": "https://git.sbis.ru/eo/ub/blob/rc-22.1100/www/service/Модули/Reporting UB/Reporting UB.pagex#L180",
+        "text": "<contentConfig>"
+      },
+      "line_216": {
+        "path": "https://git.sbis.ru/eo/ub/blob/rc-22.1100/www/service/Модули/Reporting UB/Reporting UB.pagex#L216",
+        "text": "<contentConfig>"
+      },
+      "line_252": {
+        "path": "https://git.sbis.ru/eo/ub/blob/rc-22.1100/www/service/Модули/Reporting UB/Reporting UB.pagex#L252",
+        "text": "<contentConfig>"
+      },
+      "line_288": {
+        "path": "https://git.sbis.ru/eo/ub/blob/rc-22.1100/www/service/Модули/Reporting UB/Reporting UB.pagex#L288",
+        "text": "<contentConfig>"
+      },
+      "line_324": {
+        "path": "https://git.sbis.ru/eo/ub/blob/rc-22.1100/www/service/Модули/Reporting UB/Reporting UB.pagex#L324",
+        "text": "<contentConfig>"
+      },
+      "line_360": {
+        "path": "https://git.sbis.ru/eo/ub/blob/rc-22.1100/www/service/Модули/Reporting UB/Reporting UB.pagex#L360",
+        "text": "<contentConfig>"
+      },
+      "line_390": {
+        "path": "https://git.sbis.ru/eo/ub/blob/rc-22.1100/www/service/Модули/Reporting UB/Reporting UB.pagex#L390",
+        "text": "<contentConfig>"
+      },
+      "line_403": {
+        "path": "https://git.sbis.ru/eo/ub/blob/rc-22.1100/www/service/Модули/Reporting UB/Reporting UB.pagex#L403",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/eo/attachments": {
+    "count": 1,
+    "RegisterFSS.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/eo/attachments/blob/rc-22.1100/www/service/Модули/Отчетность ФСС/RegisterFSS.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/staff/statements": {
+    "count": 5,
+    "StaffStatements.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/staff/statements/blob/rc-22.1100/service/StaffStatements/StaffStatements.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_41": {
+        "path": "https://git.sbis.ru/staff/statements/blob/rc-22.1100/service/StaffStatements/StaffStatements.pagex#L41",
+        "text": "<contentConfig>"
+      }
+    },
+    "StaffDocs.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/staff/statements/blob/rc-22.1100/service/StaffDocs/StaffDocs.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_51": {
+        "path": "https://git.sbis.ru/staff/statements/blob/rc-22.1100/service/StaffDocs/StaffDocs.pagex#L51",
+        "text": "<contentConfig>"
+      },
+      "line_82": {
+        "path": "https://git.sbis.ru/staff/statements/blob/rc-22.1100/service/StaffDocs/StaffDocs.pagex#L82",
+        "text": "<contentConfig>"
+      }
+    }
+  },
+  "https://git.sbis.ru/sbis/permissions": {
+    "count": 5,
+    "RolesNew.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/sbis/permissions/blob/rc-22.1100/www/service/modules/Employee Rights/RolesNew.pagex#L3",
+        "text": "<contentConfig>"
+      }
+    },
+    "Employee Rights New.pagex": {
+      "line_3": {
+        "path": "https://git.sbis.ru/sbis/permissions/blob/rc-22.1100/www/service/modules/Employee Rights/Employee Rights New.pagex#L3",
+        "text": "<contentConfig>"
+      },
+      "line_52": {
+        "path": "https://git.sbis.ru/sbis/permissions/blob/rc-22.1100/www/service/modules/Employee Rights/Employee Rights New.pagex#L52",
+        "text": "<contentConfig>"
+      },
+      "line_70": {
+        "path": "https://git.sbis.ru/sbis/permissions/blob/rc-22.1100/www/service/modules/Employee Rights/Employee Rights New.pagex#L70",
+        "text": "<contentConfig>"
+      }
+    },
+    "RegulationRoleExecutors.pagex": {
+      "line_7": {
+        "path": "https://git.sbis.ru/sbis/permissions/blob/rc-22.1100/www/service/modules/RegulationRoleExecutors/RegulationRoleExecutors.pagex#L7",
+        "text": "<contentConfig>"
       }
     }
   }

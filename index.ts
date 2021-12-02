@@ -7,15 +7,15 @@ interface IPagexs {
     [key: string]: string
 }
 
-const LOGIN = 'Демо_тензор';
-const PASSWORD = 'Демо123';
-const SERVER = 'https://pre-test-online.sbis.ru';
+const LOGIN = 'Бетмен';
+const PASSWORD = 'Бетмен1234';
+const SERVER = 'https://test-online.sbis.ru';
 const DATA_FILE_NAME = 'data.json';
 const PUPPETEER_OPTIONS = {
     headless: false,
     defaultViewport: {
-        width: 1250,
-        height: 800
+        width: 1024,
+        height: 768
     }
 };
 
@@ -72,8 +72,17 @@ const parseJSON = (): { searchText: string, pagexs: IPagexs } => {
 
             const pageIds = await page.evaluate(getPageIds, searchText);
             for (const pageId of pageIds) {
+                const cookies = [{
+                    name: 's3online-theme',
+                    value: 'default/onlinenavigation'
+                }, {
+                    name: 'lang',
+                    value: 'Ru-ru'
+                }];
+                await page.setCookie(...cookies);
                 await page.goto(SERVER + '/page/' + pageId);
-                await page.waitForNavigation();
+
+                await page.waitForNavigation().catch(() => {console.log(pageId)});
                 // auth
                 if (page.url().includes('-sso.')) {
                     await page.type('input[name=login]', LOGIN);
